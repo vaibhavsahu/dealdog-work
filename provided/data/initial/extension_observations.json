@@ -1,0 +1,801 @@
+{
+  "extension_version": "0.9.4",
+  "observations": [
+    {
+      "capture_id": "xo_0001",
+      "page_url": "https://bestelectro.invalid/product/C7BF-XM6-5E8",
+      "merchant": "BestElectro",
+      "dom": {
+        "title": "SilencePro XM6 Black",
+        "priceText": "$429.99",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "color": "black",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "observed_at": "2026-08-10T19:58:00Z",
+      "partial_identifiers": {
+        "mpn": "AL-XM6-B"
+      },
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "mpn": "exact_variant"
+        },
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0002",
+      "page_url": "https://stride-house.invalid/product/D782-PEG41-364",
+      "merchant": "Stride House",
+      "dom": {
+        "title": "Pegasus 41 Black White Men's 11",
+        "priceText": "$131.56",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "department": "mens",
+          "size_us": "11",
+          "color": "black/white",
+          "style_code": "AR41M-BW",
+          "condition": "new",
+          "bundle": "single_pair"
+        }
+      },
+      "observed_at": "2026-08-10T12:56:31.455792Z",
+      "partial_identifiers": {},
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {},
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0003",
+      "page_url": "https://bestelectro.invalid/product/7E0F-NP5-SLIM-D-FEC",
+      "merchant": "BestElectro",
+      "dom": {
+        "title": "NovaPlay NP5-SLIM-D 1TB console",
+        "priceText": "$408.71",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "edition": "digital",
+          "storage_gb": 1000,
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "observed_at": "2026-08-10T18:33:19.645510Z",
+      "partial_identifiers": {
+        "gtin": "00850000400326",
+        "mpn": "NP5S-DIG"
+      },
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0004",
+      "page_url": "https://valuemart.invalid/product/C9BC-VVQ55-25-FCC",
+      "merchant": "ValueMart",
+      "dom": {
+        "title": "VistaView VVQ55-25 QLED television",
+        "priceText": "$601.91",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "screen_in": 55,
+          "panel": "qled",
+          "generation": 2025,
+          "condition": "new",
+          "bundle": "standalone",
+          "source_category": "computer_monitors"
+        }
+      },
+      "observed_at": "2026-08-10T19:55:05.469496Z",
+      "partial_identifiers": {
+        "gtin": "00850000500415",
+        "mpn": "VVQ55-2?"
+      },
+      "promotion_badges": [
+        "local_only",
+        "location"
+      ],
+      "offer_context": {
+        "local_only": true,
+        "location": "select stores"
+      },
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "comparability": "CONDITIONAL"
+      }
+    },
+    {
+      "capture_id": "xo_0005",
+      "page_url": "https://valuemart.invalid/product/1CC9-P16-4B8",
+      "merchant": "ValueMart",
+      "dom": {
+        "title": "Pine flagship unlocked \u2014 midnight",
+        "priceText": "$932.07",
+        "priceKind": "total_purchase_price",
+        "stockText": "out_of_stock",
+        "selectedOptions": {
+          "storage_gb": 512,
+          "color": "black",
+          "carrier": "unlocked",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "observed_at": "2026-08-10T13:57:18.956764Z",
+      "partial_identifiers": {},
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {},
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0006",
+      "page_url": "https://bestelectro.invalid/product/2D6E-HARC2-A69",
+      "merchant": "BestElectro",
+      "dom": {
+        "title": "Arc Series Two 41 mm wearable",
+        "priceText": "$371.78",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "case_size_mm": 41,
+          "connectivity": "gps",
+          "case_material": "aluminum",
+          "color": "midnight",
+          "band_configuration": "sport_band",
+          "condition": "new",
+          "bundle": "watch_only"
+        }
+      },
+      "observed_at": "2026-08-10T15:38:20.812107Z",
+      "partial_identifiers": {},
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {},
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0007",
+      "page_url": "https://bestelectro.invalid/product/A746-QNVX-476",
+      "merchant": "BestElectro",
+      "dom": {
+        "title": "NVX professional internal drive",
+        "priceText": "$145.09",
+        "priceKind": "total_purchase_price",
+        "stockText": "out_of_stock",
+        "selectedOptions": {
+          "capacity_gb": 2000,
+          "interface": "pcie_4_nvme",
+          "form_factor": "m2_2280",
+          "heatsink": "none",
+          "condition": "new",
+          "bundle": "drive_only"
+        }
+      },
+      "observed_at": "2026-08-10T16:03:26.476994Z",
+      "partial_identifiers": {},
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {},
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0008",
+      "page_url": "https://valuemart.invalid/product/EAFB-P16-46E",
+      "merchant": "ValueMart",
+      "dom": {
+        "title": "Pine P16 256 black unlocked",
+        "priceText": "$781.60",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "storage_gb": 256,
+          "color": "black",
+          "carrier": "unlocked",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "observed_at": "2026-08-10T12:32:37.046576Z",
+      "partial_identifiers": {
+        "gtin": "00850000300244",
+        "mpn": "P16-256-BLK"
+      },
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": "syndicate-feedwire-778",
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0009",
+      "page_url": "https://bestelectro.invalid/product/C7BF-XM6-5E8",
+      "merchant": "BestElectro",
+      "dom": {
+        "title": "Auralux XM6 Black \u2014 24 monthly payments",
+        "priceText": "$17.92",
+        "priceKind": "monthly_installment",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "color": "black",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "observed_at": "2026-08-10T14:54:55.932801Z",
+      "partial_identifiers": {
+        "gtin": "00850000100011",
+        "mpn": "AL-XM6-B"
+      },
+      "promotion_badges": [
+        "financing_required",
+        "payment_count",
+        "total_payable"
+      ],
+      "offer_context": {
+        "financing_required": true,
+        "payment_count": 24,
+        "total_payable": 430.08
+      },
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "comparability": "NOT_COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0010",
+      "page_url": "https://glow-market.invalid/product/7C98-LLBC15-D36",
+      "merchant": "Glow Market",
+      "dom": {
+        "title": "Lumina Bright-C 30 mL \u2014 clip $5 coupon",
+        "priceText": "$42.00",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "volume_ml": 30,
+          "formulation": "standard",
+          "condition": "new",
+          "bundle": "single"
+        }
+      },
+      "observed_at": "2026-08-10T17:17:38.613948Z",
+      "partial_identifiers": {},
+      "promotion_badges": [
+        "clip_coupon"
+      ],
+      "offer_context": {
+        "clip_coupon": {
+          "amount_off": 5.0,
+          "effective_price": 37.0,
+          "status": "active"
+        }
+      },
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {},
+        "comparability": "CONDITIONAL"
+      }
+    },
+    {
+      "capture_id": "xo_0011",
+      "page_url": "https://metro-department-store.invalid/product/9D3F-XM6-AD2",
+      "merchant": "Metro Department Store",
+      "dom": {
+        "title": "Auralux XM6 Premium Wireless Headphones",
+        "priceText": "$379.21",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "condition": "new"
+        }
+      },
+      "observed_at": "2026-08-10T17:22:47.380760Z",
+      "partial_identifiers": {},
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {},
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0012",
+      "page_url": "https://valuemart.invalid/product/137D-AB13-M4-563",
+      "merchant": "ValueMart",
+      "dom": {
+        "title": "Orchard AirBook 13 M4 16GB Midnight",
+        "priceText": "$849.77",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "screen_in": 13.6,
+          "ram_gb": 16,
+          "color": "midnight",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "observed_at": "2026-08-10T14:24:27.864482Z",
+      "partial_identifiers": {},
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0013",
+      "page_url": "https://bestelectro.invalid/product/C7BF-XM6-5E8",
+      "merchant": "BestElectro",
+      "dom": {
+        "title": "Auralux WH1000 XM6 Blk headphones",
+        "priceText": "$372.17",
+        "priceKind": "total_purchase_price",
+        "stockText": "out_of_stock",
+        "selectedOptions": {
+          "color": "BLACK",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "observed_at": "2026-08-07T06:33:25.971556Z",
+      "partial_identifiers": {
+        "mpn": "ALXM6B"
+      },
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "mpn": "exact_variant"
+        },
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0014",
+      "page_url": "https://metro-department-store.invalid/product/UNKNOWN-14",
+      "merchant": "Metro Department Store",
+      "dom": {
+        "title": "Orchard AirBuds Pro White",
+        "priceText": "$189.00",
+        "priceKind": "total_purchase_price",
+        "stockText": "unknown",
+        "selectedOptions": {}
+      },
+      "observed_at": "2026-08-10T15:06:42.373042Z",
+      "partial_identifiers": {},
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "unknown",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {},
+        "comparability": "NOT_COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0015",
+      "page_url": "https://valuemart.invalid/product/P16-CONFIGURABLE",
+      "merchant": "ValueMart",
+      "dom": {
+        "title": "PinePhone 16",
+        "priceText": "$664.47",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "color": "black",
+          "carrier": "unlocked",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "observed_at": "2026-07-31T18:29:52.855175Z",
+      "partial_identifiers": {},
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0016",
+      "page_url": "https://homehub.invalid/product/24B7-AB13-M4-FAC",
+      "merchant": "HomeHub",
+      "dom": {
+        "title": "Orchard AirBook 13 M4 AB13-M4 256GB 16GB RAM 13.6-inch midnight",
+        "priceText": "$908.36",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "screen_in": 13.6,
+          "ram_gb": 16,
+          "storage_gb": 256,
+          "color": "midnight",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "observed_at": "2026-08-10T15:55:16.291315Z",
+      "partial_identifiers": {},
+      "promotion_badges": [
+        "limited_quantity"
+      ],
+      "offer_context": {
+        "limited_quantity": true
+      },
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {},
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0017",
+      "page_url": "https://valuemart.invalid/product/1CC9-P16-4B8",
+      "merchant": "ValueMart",
+      "dom": {
+        "title": "PinePhone 16 P16 512GB black",
+        "priceText": "$1,142.49",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "storage_gb": 512,
+          "color": "black",
+          "carrier": "unlocked",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "observed_at": "2026-08-10T19:01:05.706272Z",
+      "partial_identifiers": {
+        "gtin": "00850000300251",
+        "mpn": "P16-512-BLK"
+      },
+      "promotion_badges": [
+        "limited_quantity"
+      ],
+      "offer_context": {
+        "limited_quantity": true
+      },
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0018",
+      "page_url": "https://homehub.invalid/product/7128-VVQ55-25-124",
+      "merchant": "HomeHub",
+      "dom": {
+        "title": "VistaView 55 inch Q Series 2025 television VVQ55 25",
+        "priceText": "$724.77",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "screen_in": 55,
+          "panel": "qled",
+          "generation": 2025,
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "observed_at": "2026-08-10T14:38:18.387877Z",
+      "partial_identifiers": {
+        "gtin": "00850000500415",
+        "mpn": "VVQ55-25"
+      },
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0019",
+      "page_url": "https://glow-market.invalid/product/0F90-PEG41-52A",
+      "merchant": "Glow Market",
+      "dom": {
+        "title": "AeroRun Pegasus 41 Road Running Shoes PEG41 black/white mens single pair",
+        "priceText": "$136.69",
+        "priceKind": "total_purchase_price",
+        "stockText": "out_of_stock",
+        "selectedOptions": {
+          "department": "mens",
+          "size_us": "10",
+          "color": "black/white",
+          "style_code": "AR41M-BW",
+          "condition": "new",
+          "bundle": "single_pair"
+        }
+      },
+      "observed_at": "2026-08-10T13:58:05.283986Z",
+      "partial_identifiers": {
+        "gtin": "00850000700617",
+        "mpn": "AR41M-BW-10"
+      },
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0020",
+      "page_url": "https://stride-house.invalid/product/8FCF-NSS3-475",
+      "merchant": "Stride House",
+      "dom": {
+        "title": "StormShell Waterproof Jacket NSS3 black mens",
+        "priceText": "$117.32",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "department": "mens",
+          "size": "L",
+          "color": "black",
+          "condition": "new",
+          "bundle": "single"
+        }
+      },
+      "observed_at": "2026-08-05T11:55:14.404446Z",
+      "partial_identifiers": {
+        "gtin": "00850000800720",
+        "mpn": "NSS3-L-BLK"
+      },
+      "promotion_badges": [
+        "coupon_code",
+        "required"
+      ],
+      "offer_context": {
+        "coupon_code": "SAVE20",
+        "required": true
+      },
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "comparability": "CONDITIONAL"
+      }
+    },
+    {
+      "capture_id": "xo_0021",
+      "page_url": "https://bestelectro.invalid/product/3E3D-LLBC15-B72",
+      "merchant": "BestElectro",
+      "dom": {
+        "title": "Lumina Labs Bright C 15% Vitamin C Serum LLBC15 50 mL standard",
+        "priceText": "$54.88",
+        "priceKind": "total_purchase_price",
+        "stockText": "limited",
+        "selectedOptions": {
+          "volume_ml": 50,
+          "formulation": "standard",
+          "condition": "new",
+          "bundle": "single"
+        }
+      },
+      "observed_at": "2026-08-10T15:45:05.570701Z",
+      "partial_identifiers": {
+        "gtin": "00850001000921",
+        "mpn": "LL-BC15-50"
+      },
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "comparability": "COMPARABLE"
+      }
+    },
+    {
+      "capture_id": "xo_0022",
+      "page_url": "https://stride-house.invalid/product/4FED-CV12-75D",
+      "merchant": "Stride House",
+      "dom": {
+        "title": "Cyclone Home V12 Cordless Vacuum CV12 standard tools",
+        "priceText": "$452.13",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "generation": 12,
+          "condition": "new",
+          "bundle": "standard_tools"
+        }
+      },
+      "observed_at": "2026-08-10T19:12:43.142048Z",
+      "partial_identifiers": {
+        "gtin": "00850001201114",
+        "mpn": "CV12-STD"
+      },
+      "promotion_badges": [
+        "local_only",
+        "location"
+      ],
+      "offer_context": {
+        "local_only": true,
+        "location": "select stores"
+      },
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "comparability": "CONDITIONAL"
+      }
+    },
+    {
+      "capture_id": "xo_0023",
+      "page_url": "https://glow-market.invalid/product/44AA-EM500-35F",
+      "merchant": "Glow Market",
+      "dom": {
+        "title": "Ember Kitchen EmberMix 500 Blender Smoothie Bundle EM500 black pitcher plus two cups",
+        "priceText": "$153.00",
+        "priceKind": "total_purchase_price",
+        "stockText": "in_stock",
+        "selectedOptions": {
+          "color": "black",
+          "generation": 500,
+          "condition": "new",
+          "bundle": "pitcher_plus_two_cups"
+        }
+      },
+      "observed_at": "2026-08-10T12:22:16.165533Z",
+      "partial_identifiers": {
+        "gtin": "00850001301234",
+        "mpn": "EM500-BLK-CUP"
+      },
+      "promotion_badges": [],
+      "offer_context": {},
+      "content_origin": null,
+      "semantic_hints": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "comparability": "COMPARABLE"
+      }
+    }
+  ]
+}

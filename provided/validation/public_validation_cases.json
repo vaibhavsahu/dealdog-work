@@ -1,0 +1,221 @@
+{
+  "semantics": "universal product and exact price-comparable variant; false positives are more harmful",
+  "cases": [
+    {
+      "case_id": "public_same_01",
+      "listing_a": "ab_0015",
+      "listing_b": "xo_0019",
+      "same_universal_product": true,
+      "same_variant": true,
+      "note": "same purchasable variant expressed by different sources"
+    },
+    {
+      "case_id": "public_same_02",
+      "listing_a": "ra_0018",
+      "listing_b": "aa_0015",
+      "same_universal_product": true,
+      "same_variant": true,
+      "note": "same purchasable variant expressed by different sources"
+    },
+    {
+      "case_id": "public_same_03",
+      "listing_a": "ab_0005",
+      "listing_b": "ra_0027",
+      "same_universal_product": true,
+      "same_variant": true,
+      "note": "same purchasable variant expressed by different sources"
+    },
+    {
+      "case_id": "public_same_04",
+      "listing_a": "aa_0007",
+      "listing_b": "cd_0014",
+      "same_universal_product": true,
+      "same_variant": true,
+      "note": "same purchasable variant expressed by different sources"
+    },
+    {
+      "case_id": "public_same_05",
+      "listing_a": "aa_0001",
+      "listing_b": "xo_0001",
+      "same_universal_product": true,
+      "same_variant": true,
+      "note": "same purchasable variant expressed by different sources"
+    },
+    {
+      "case_id": "public_same_06",
+      "listing_a": "ab_0007",
+      "listing_b": "xo_0022",
+      "same_universal_product": true,
+      "same_variant": true,
+      "note": "same purchasable variant expressed by different sources"
+    },
+    {
+      "case_id": "public_same_07",
+      "listing_a": "ra_0014",
+      "listing_b": "ab_0025",
+      "same_universal_product": true,
+      "same_variant": true,
+      "note": "same purchasable variant expressed by different sources"
+    },
+    {
+      "case_id": "public_same_08",
+      "listing_a": "ab_0012",
+      "listing_b": "xo_0006",
+      "same_universal_product": true,
+      "same_variant": true,
+      "note": "same purchasable variant expressed by different sources"
+    },
+    {
+      "case_id": "public_same_09",
+      "listing_a": "ra_0006",
+      "listing_b": "ab_0016",
+      "same_universal_product": true,
+      "same_variant": true,
+      "note": "same purchasable variant expressed by different sources"
+    },
+    {
+      "case_id": "public_same_10",
+      "listing_a": "cd_0004",
+      "listing_b": "ra_0012",
+      "same_universal_product": true,
+      "same_variant": true,
+      "note": "same purchasable variant expressed by different sources"
+    },
+    {
+      "case_id": "public_same_11",
+      "listing_a": "ab_0006",
+      "listing_b": "xo_0021",
+      "same_universal_product": true,
+      "same_variant": true,
+      "note": "same purchasable variant expressed by different sources"
+    },
+    {
+      "case_id": "public_same_12",
+      "listing_a": "ab_0003",
+      "listing_b": "xo_0003",
+      "same_universal_product": true,
+      "same_variant": true,
+      "note": "same purchasable variant expressed by different sources"
+    },
+    {
+      "case_id": "public_diff_01",
+      "listing_a": "ab_0005",
+      "listing_b": "ab_0015",
+      "same_universal_product": true,
+      "same_variant": false,
+      "note": "same product, material variant difference: department, style_code"
+    },
+    {
+      "case_id": "public_diff_02",
+      "listing_a": "ab_0022",
+      "listing_b": "ra_0028",
+      "same_universal_product": true,
+      "same_variant": false,
+      "note": "same product, material variant difference: bundle"
+    },
+    {
+      "case_id": "public_diff_03",
+      "listing_a": "ab_0007",
+      "listing_b": "ab_0024",
+      "same_universal_product": true,
+      "same_variant": false,
+      "note": "same product, material variant difference: bundle"
+    },
+    {
+      "case_id": "public_diff_04",
+      "listing_a": "ra_0030",
+      "listing_b": "xo_0023",
+      "same_universal_product": true,
+      "same_variant": false,
+      "note": "same product, material variant difference: bundle"
+    },
+    {
+      "case_id": "public_diff_05",
+      "listing_a": "ab_0012",
+      "listing_b": "ra_0014",
+      "same_universal_product": true,
+      "same_variant": false,
+      "note": "same product, material variant difference: connectivity"
+    },
+    {
+      "case_id": "public_diff_06",
+      "listing_a": "ra_0006",
+      "listing_b": "ab_0006",
+      "same_universal_product": true,
+      "same_variant": false,
+      "note": "same product, material variant difference: volume_ml"
+    },
+    {
+      "case_id": "public_diff_07",
+      "listing_a": "ab_0023",
+      "listing_b": "ra_0029",
+      "same_universal_product": true,
+      "same_variant": false,
+      "note": "same product, material variant difference: volume_ml"
+    },
+    {
+      "case_id": "public_diff_08",
+      "listing_a": "xo_0020",
+      "listing_b": "aa_0016",
+      "same_universal_product": true,
+      "same_variant": false,
+      "note": "same product, material variant difference: department, size"
+    },
+    {
+      "case_id": "public_diff_09",
+      "listing_a": "ra_0004",
+      "listing_b": "ab_0003",
+      "same_universal_product": true,
+      "same_variant": false,
+      "note": "same product, material variant difference: edition"
+    },
+    {
+      "case_id": "public_diff_10",
+      "listing_a": "aa_0002",
+      "listing_b": "ab_0002",
+      "same_universal_product": true,
+      "same_variant": false,
+      "note": "same product, material variant difference: storage_gb"
+    },
+    {
+      "case_id": "public_diff_11",
+      "listing_a": "ab_0011",
+      "listing_b": "ra_0013",
+      "same_universal_product": true,
+      "same_variant": false,
+      "note": "same product, material variant difference: storage_gb"
+    },
+    {
+      "case_id": "public_diff_12",
+      "listing_a": "ab_0013",
+      "listing_b": "ra_0015",
+      "same_universal_product": true,
+      "same_variant": false,
+      "note": "same product, material variant difference: capacity_gb"
+    },
+    {
+      "case_id": "public_product_diff_01",
+      "listing_a": "xo_0020",
+      "listing_b": "ab_0022",
+      "same_universal_product": false,
+      "same_variant": false,
+      "note": "similar category evidence but a different underlying model/product"
+    },
+    {
+      "case_id": "public_product_diff_02",
+      "listing_a": "aa_0001",
+      "listing_b": "ra_0003",
+      "same_universal_product": false,
+      "same_variant": false,
+      "note": "similar category evidence but a different underlying model/product"
+    },
+    {
+      "case_id": "public_product_diff_03",
+      "listing_a": "aa_0006",
+      "listing_b": "cd_0005",
+      "same_universal_product": false,
+      "same_variant": false,
+      "note": "similar category evidence but a different underlying model/product"
+    }
+  ]
+}

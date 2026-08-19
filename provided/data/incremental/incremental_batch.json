@@ -1,0 +1,1210 @@
+{
+  "batch_id": "incremental-2026-08-11",
+  "generated_at": "2026-08-11T13:00:00Z",
+  "events": [
+    {
+      "event_id": "inc_001",
+      "idempotency_key": "inc-20260811-001",
+      "operation": "upsert",
+      "source": "affiliate_b",
+      "payload": {
+        "eventId": "ab_0026",
+        "advertiser": {
+          "name": "BestElectro",
+          "id": "21A747"
+        },
+        "item": {
+          "title": "CoreCotton Everyday Crew Tee CCT100W black womens M",
+          "merchantItemId": "7A94-CCT100W-45A",
+          "identifiers": {
+            "globalTradeItemNumber": "00850000900833",
+            "manufacturerCode": "CCT100W-M-BLK-1"
+          },
+          "variant": {
+            "department": "womens",
+            "size": "M",
+            "color": "black",
+            "condition": "new",
+            "bundle": "single"
+          }
+        },
+        "pricing": {
+          "current": 15.49,
+          "original": 18.0,
+          "currencyCode": "USD",
+          "promotion": {}
+        },
+        "stock": {
+          "status": "in_stock",
+          "capturedAt": "2026-08-11T09:00:00Z"
+        },
+        "trackingUrl": "https://affiliate-b.invalid/t/7A94-CCT100W-45A",
+        "contentLineage": null,
+        "semantics": {
+          "identifierScopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "productType": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "contentOrigin": null,
+          "priceKind": "total_purchase_price",
+          "comparabilityHint": "COMPARABLE"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_002",
+      "idempotency_key": "inc-20260811-002",
+      "operation": "upsert",
+      "source": "affiliate_b",
+      "payload": {
+        "eventId": "ab_0027",
+        "advertiser": {
+          "name": "BestElectro",
+          "id": "21A747"
+        },
+        "item": {
+          "title": "Cyclone Home previous V11 stick vacuum CV11 standard tools",
+          "merchantItemId": "56C0-CV11-247",
+          "identifiers": {
+            "globalTradeItemNumber": "00850001201138",
+            "manufacturerCode": "CV11-STD"
+          },
+          "variant": {
+            "generation": 11,
+            "condition": "new",
+            "bundle": "standard_tools"
+          }
+        },
+        "pricing": {
+          "current": 430.23,
+          "original": 449.99,
+          "currencyCode": "USD",
+          "promotion": {}
+        },
+        "stock": {
+          "status": "in_stock",
+          "capturedAt": "2026-08-11T09:00:00Z"
+        },
+        "trackingUrl": "https://affiliate-b.invalid/t/56C0-CV11-247",
+        "contentLineage": null,
+        "semantics": {
+          "identifierScopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "productType": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "contentOrigin": null,
+          "priceKind": "total_purchase_price",
+          "comparabilityHint": "COMPARABLE"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_003",
+      "idempotency_key": "inc-20260811-003",
+      "operation": "upsert",
+      "source": "extension_observations",
+      "payload": {
+        "capture_id": "xo_0024",
+        "page_url": "https://glow-market.invalid/product/11BF-EM400-A5A",
+        "merchant": "Glow Market",
+        "dom": {
+          "title": "Ember Kitchen EmberMix 400 Blender EM400 black standard pitcher",
+          "priceText": "$92.42",
+          "priceKind": "total_purchase_price",
+          "stockText": "in_stock",
+          "selectedOptions": {
+            "color": "black",
+            "generation": 400,
+            "condition": "new",
+            "bundle": "standard_pitcher"
+          }
+        },
+        "observed_at": "2026-08-11T09:00:00Z",
+        "partial_identifiers": {
+          "gtin": "00850001301241",
+          "mpn": "EM400-BL?"
+        },
+        "promotion_badges": [
+          "limited_quantity"
+        ],
+        "offer_context": {
+          "limited_quantity": true
+        },
+        "content_origin": null,
+        "semantic_hints": {
+          "productType": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "identifierScopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "comparability": "COMPARABLE"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_004",
+      "idempotency_key": "inc-20260811-004",
+      "operation": "upsert",
+      "source": "retailer_api",
+      "payload": {
+        "observation_id": "ra_0032",
+        "store": {
+          "display_name": "BestElectro",
+          "store_id": "CFC16"
+        },
+        "sku": "DBBE-HARC2-1FA",
+        "product": {
+          "name": "Horizon Arc 2 Smartwatch HARC2 natural watch only 45 mm gps cellular titanium sport band",
+          "brand": "Horizon",
+          "model": "HARC2-45-LTE-TI-NT",
+          "barcode": "00850001401316",
+          "specifications": {
+            "case_size_mm": 45,
+            "connectivity": "gps_cellular",
+            "case_material": "titanium",
+            "color": "natural",
+            "band_configuration": "sport_band",
+            "condition": "new",
+            "bundle": "watch_only"
+          }
+        },
+        "offer": {
+          "price": {
+            "amount": 673.31,
+            "currency": "USD"
+          },
+          "listPrice": 699.0,
+          "availabilityCode": "in_stock",
+          "terms": {}
+        },
+        "observed_at": "2026-08-11T09:00:00Z",
+        "product_url": "https://bestelectro.invalid/p/DBBE-HARC2-1FA",
+        "semantics": {
+          "identifier_scopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "product_type": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "content_origin": null,
+          "price_kind": "total_purchase_price",
+          "comparability_hint": "COMPARABLE"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_005",
+      "idempotency_key": "inc-20260811-005",
+      "operation": "upsert",
+      "source": "retailer_api",
+      "payload": {
+        "observation_id": "ra_0033",
+        "store": {
+          "display_name": "HomeHub",
+          "store_id": "CD639"
+        },
+        "sku": "3F2B-LLBC10S-13F",
+        "product": {
+          "name": "Lumina Labs Bright-C Sensitive Vitamin C Serum LLBC10S sensitive 10 percent",
+          "brand": "Lumina",
+          "model": "LL-BC10S-30",
+          "barcode": "00850001000945",
+          "specifications": {
+            "volume_ml": 30,
+            "formulation": "sensitive_10_percent",
+            "condition": "new",
+            "bundle": "single"
+          }
+        },
+        "offer": {
+          "price": {
+            "amount": 40.45,
+            "currency": "USD"
+          },
+          "listPrice": 42.0,
+          "availabilityCode": "in_stock",
+          "terms": {}
+        },
+        "observed_at": "2026-08-11T09:00:00Z",
+        "product_url": "https://homehub.invalid/p/3F2B-LLBC10S-13F",
+        "semantics": {
+          "identifier_scopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "product_type": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "content_origin": null,
+          "price_kind": "total_purchase_price",
+          "comparability_hint": "COMPARABLE"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_006",
+      "idempotency_key": "inc-20260811-006",
+      "operation": "upsert",
+      "source": "affiliate_a",
+      "payload": {
+        "record_id": "aa_0020",
+        "merchant": "Metro Department Store",
+        "merchant_sku": "7585-MVN7T-940",
+        "product_name": "Maison Vale No. 7 Eau de Toilette MVN7T 100 mL",
+        "sale_price": "92.37",
+        "retail_price": "98.00",
+        "currency": "USD",
+        "ean": "00850001101032",
+        "manufacturer_part_number": "MV-N7-EDT100",
+        "availability": "in_stock",
+        "condition": "new",
+        "promotion_text": "",
+        "deep_link": "https://affiliate-a.invalid/click/7585-MVN7T-940",
+        "last_updated": "2026-08-11T09:00:00Z",
+        "price_kind": "total_purchase_price",
+        "comparability": "COMPARABLE",
+        "upstream_origin": "",
+        "product_type": "primary_product",
+        "exclusions": "[]"
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_007",
+      "idempotency_key": "inc-20260811-007",
+      "operation": "upsert",
+      "source": "extension_observations",
+      "payload": {
+        "capture_id": "xo_0025",
+        "page_url": "https://stride-house.invalid/product/567D-AB13-M4-5B0",
+        "merchant": "Stride House",
+        "dom": {
+          "title": "Orchard AirBook 13 M4 AB13-M4 24GB RAM 13.6-inch starlight",
+          "priceText": "$1,326.45",
+          "priceKind": "total_purchase_price",
+          "stockText": "in_stock",
+          "selectedOptions": {
+            "screen_in": 13.6,
+            "ram_gb": 24,
+            "storage_gb": 512,
+            "color": "starlight",
+            "condition": "new",
+            "bundle": "standalone"
+          }
+        },
+        "observed_at": "2026-08-11T09:00:00Z",
+        "partial_identifiers": {
+          "gtin": "00850000200131",
+          "mpn": "AB13M4-24512-ST"
+        },
+        "promotion_badges": [
+          "membership_required"
+        ],
+        "offer_context": {
+          "membership_required": "Plus Club"
+        },
+        "content_origin": null,
+        "semantic_hints": {
+          "productType": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "identifierScopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "comparability": "CONDITIONAL"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_008",
+      "idempotency_key": "inc-20260811-008",
+      "operation": "upsert",
+      "source": "affiliate_b",
+      "payload": {
+        "eventId": "ab_0028",
+        "advertiser": {
+          "name": "Glow Market",
+          "id": "BD32CB"
+        },
+        "item": {
+          "title": "last generation Pine phone 256 P15 256GB",
+          "merchantItemId": "1CD6-P15-F5A",
+          "identifiers": {
+            "globalTradeItemNumber": "00850000300244",
+            "manufacturerCode": "P15-256-BLK"
+          },
+          "variant": {
+            "storage_gb": 256,
+            "color": "black",
+            "carrier": "unlocked",
+            "condition": "new",
+            "bundle": "standalone"
+          }
+        },
+        "pricing": {
+          "current": 749.8,
+          "original": 749.8,
+          "currencyCode": "USD",
+          "promotion": {
+            "membership_required": "Plus Club"
+          }
+        },
+        "stock": {
+          "status": "in_stock",
+          "capturedAt": "2026-08-11T09:00:00Z"
+        },
+        "trackingUrl": "https://affiliate-b.invalid/t/1CD6-P15-F5A",
+        "contentLineage": null,
+        "semantics": {
+          "identifierScopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "productType": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "contentOrigin": null,
+          "priceKind": "total_purchase_price",
+          "comparabilityHint": "CONDITIONAL"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_009",
+      "idempotency_key": "inc-20260811-009",
+      "operation": "upsert",
+      "source": "retailer_api",
+      "payload": {
+        "observation_id": "ra_0034",
+        "store": {
+          "display_name": "BestElectro",
+          "store_id": "CFC16"
+        },
+        "sku": "C7BF-XM6-5E8",
+        "product": {
+          "name": "Auralux Silence Pro 6 black XM6",
+          "brand": "Auralux",
+          "model": "AL-XM6-B",
+          "barcode": "00850000100011",
+          "specifications": {
+            "color": "black",
+            "condition": "new",
+            "bundle": "standalone"
+          }
+        },
+        "offer": {
+          "price": {
+            "amount": 409.99,
+            "currency": "USD"
+          },
+          "listPrice": 449.99,
+          "availabilityCode": "in_stock",
+          "terms": {}
+        },
+        "observed_at": "2026-08-11T10:30:00Z",
+        "product_url": "https://bestelectro.invalid/p/C7BF-XM6-5E8",
+        "semantics": {
+          "identifier_scopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "product_type": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "content_origin": null,
+          "price_kind": "total_purchase_price",
+          "comparability_hint": "COMPARABLE"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_010",
+      "idempotency_key": "inc-20260811-010",
+      "operation": "unavailable",
+      "source": "retailer_api",
+      "payload": {
+        "observation_id": "ra_0035",
+        "store": {
+          "display_name": "BestElectro",
+          "store_id": "CFC16"
+        },
+        "sku": "C7BF-XM6-5E8",
+        "product": {
+          "name": "Auralux Silence Pro 6 black XM6",
+          "brand": "Auralux",
+          "model": "AL-XM6-B",
+          "barcode": "00850000100011",
+          "specifications": {
+            "color": "black",
+            "condition": "new",
+            "bundle": "standalone"
+          }
+        },
+        "offer": {
+          "price": {
+            "amount": 409.99,
+            "currency": "USD"
+          },
+          "listPrice": 449.99,
+          "availabilityCode": "out_of_stock",
+          "terms": {}
+        },
+        "observed_at": "2026-08-11T11:00:00Z",
+        "product_url": "https://bestelectro.invalid/p/C7BF-XM6-5E8",
+        "semantics": {
+          "identifier_scopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "product_type": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "content_origin": null,
+          "price_kind": "total_purchase_price",
+          "comparability_hint": "COMPARABLE"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_011",
+      "idempotency_key": "inc-20260811-011",
+      "operation": "correct",
+      "source": "affiliate_b",
+      "payload": {
+        "eventId": "ab_0029",
+        "advertiser": {
+          "name": "BestElectro",
+          "id": "21A747"
+        },
+        "item": {
+          "title": "Auralux SilencePro XM6 Wireless Headphones XM6",
+          "merchantItemId": "6670-XM6-9E4",
+          "identifiers": {
+            "globalTradeItemNumber": "00850000100028",
+            "manufacturerCode": "AL-XM6-S"
+          },
+          "variant": {
+            "color": "silver",
+            "condition": "new",
+            "bundle": "standalone"
+          }
+        },
+        "pricing": {
+          "current": 431.7,
+          "original": 449.99,
+          "currencyCode": "USD",
+          "promotion": {}
+        },
+        "stock": {
+          "status": "out_of_stock",
+          "capturedAt": "2026-08-11T11:15:00Z"
+        },
+        "trackingUrl": "https://affiliate-b.invalid/t/6670-XM6-9E4",
+        "contentLineage": null,
+        "semantics": {
+          "identifierScopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "productType": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "contentOrigin": null,
+          "priceKind": "total_purchase_price",
+          "comparabilityHint": "COMPARABLE"
+        }
+      },
+      "phase": 1,
+      "corrects_listing_id": "ab_0001"
+    },
+    {
+      "event_id": "inc_012",
+      "idempotency_key": "inc-20260811-012",
+      "operation": "upsert",
+      "source": "retailer_api",
+      "payload": {
+        "observation_id": "ra_0036",
+        "store": {
+          "display_name": "ValueMart",
+          "store_id": "44BCF"
+        },
+        "sku": "EAFB-P16-46E",
+        "product": {
+          "name": "PinePhone 15 256GB Black clearance",
+          "brand": "PinePhone",
+          "model": "P15-256-BLK",
+          "barcode": "00850000300244",
+          "specifications": {
+            "storage_gb": 256,
+            "color": "black",
+            "carrier": "unlocked",
+            "condition": "new",
+            "bundle": "standalone"
+          }
+        },
+        "offer": {
+          "price": {
+            "amount": 696.19,
+            "currency": "USD"
+          },
+          "listPrice": 749.0,
+          "availabilityCode": "in_stock",
+          "terms": {}
+        },
+        "observed_at": "2026-08-11T12:00:00Z",
+        "product_url": "https://valuemart.invalid/p/EAFB-P16-46E",
+        "semantics": {
+          "identifier_scopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "product_type": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "content_origin": null,
+          "price_kind": "total_purchase_price",
+          "comparability_hint": "COMPARABLE"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_013",
+      "idempotency_key": "inc-20260811-013",
+      "operation": "upsert",
+      "source": "affiliate_a",
+      "payload": {
+        "record_id": "aa_0021",
+        "merchant": "HomeHub",
+        "merchant_sku": "4E9D-CV12-90C",
+        "product_name": "Cyclone Home V12 Cordless Vacuum CV12 standard tools",
+        "sale_price": "499.99",
+        "retail_price": "549.99",
+        "currency": "USD",
+        "ean": "00850001201114",
+        "manufacturer_part_number": "CV12-STD",
+        "availability": "out_of_stock",
+        "condition": "new",
+        "promotion_text": "",
+        "deep_link": "https://affiliate-a.invalid/click/4E9D-CV12-90C",
+        "last_updated": "2026-07-15T12:00:00Z",
+        "price_kind": "total_purchase_price",
+        "comparability": "COMPARABLE",
+        "upstream_origin": "",
+        "product_type": "primary_product",
+        "exclusions": "[]"
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_014",
+      "idempotency_key": "inc-20260811-014",
+      "operation": "upsert",
+      "source": "retailer_api",
+      "payload": {
+        "observation_id": "ra_0037",
+        "store": {
+          "display_name": "Glow Market",
+          "store_id": "688BF"
+        },
+        "sku": "7C98-LLBC15-D36",
+        "product": {
+          "name": "Lumina Labs Bright-C 15% Vitamin C Serum LLBC15 30 mL standard",
+          "brand": "Lumina",
+          "model": "LL-BC15-30",
+          "barcode": "00850001000914",
+          "specifications": {
+            "volume_ml": 30,
+            "formulation": "standard",
+            "condition": "new",
+            "bundle": "single"
+          }
+        },
+        "offer": {
+          "price": {
+            "amount": 36.0,
+            "currency": "USD"
+          },
+          "listPrice": 43.49,
+          "availabilityCode": "in_stock",
+          "terms": {}
+        },
+        "observed_at": "2026-08-11T12:30:00Z",
+        "product_url": "https://glow-market.invalid/p/7C98-LLBC15-D36",
+        "semantics": {
+          "identifier_scopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "product_type": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "content_origin": null,
+          "price_kind": "total_purchase_price",
+          "comparability_hint": "COMPARABLE"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_014",
+      "idempotency_key": "inc-20260811-014",
+      "operation": "upsert",
+      "source": "retailer_api",
+      "payload": {
+        "observation_id": "ra_0037",
+        "store": {
+          "display_name": "Glow Market",
+          "store_id": "688BF"
+        },
+        "sku": "7C98-LLBC15-D36",
+        "product": {
+          "name": "Lumina Labs Bright-C 15% Vitamin C Serum LLBC15 30 mL standard",
+          "brand": "Lumina",
+          "model": "LL-BC15-30",
+          "barcode": "00850001000914",
+          "specifications": {
+            "volume_ml": 30,
+            "formulation": "standard",
+            "condition": "new",
+            "bundle": "single"
+          }
+        },
+        "offer": {
+          "price": {
+            "amount": 36.0,
+            "currency": "USD"
+          },
+          "listPrice": 43.49,
+          "availabilityCode": "in_stock",
+          "terms": {}
+        },
+        "observed_at": "2026-08-11T12:30:00Z",
+        "product_url": "https://glow-market.invalid/p/7C98-LLBC15-D36",
+        "semantics": {
+          "identifier_scopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "product_type": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "content_origin": null,
+          "price_kind": "total_purchase_price",
+          "comparability_hint": "COMPARABLE"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_016",
+      "idempotency_key": "inc-20260811-016",
+      "operation": "upsert",
+      "source": "extension_observations",
+      "payload": {
+        "capture_id": "xo_0026",
+        "page_url": "https://valuemart.invalid/product/137D-AB13-M4-563",
+        "merchant": "ValueMart",
+        "dom": {
+          "title": "Orchard AirBook 13 M4 16GB Midnight",
+          "priceText": "$984.59",
+          "priceKind": "total_purchase_price",
+          "stockText": "in_stock",
+          "selectedOptions": {
+            "screen_in": 13.6,
+            "ram_gb": 16,
+            "color": "midnight",
+            "condition": "new",
+            "bundle": "standalone"
+          }
+        },
+        "observed_at": "2026-08-10T15:20:57.333422Z",
+        "partial_identifiers": {},
+        "promotion_badges": [],
+        "offer_context": {},
+        "content_origin": null,
+        "semantic_hints": {
+          "productType": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "identifierScopes": {},
+          "comparability": "COMPARABLE"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_017",
+      "idempotency_key": "inc-20260811-017",
+      "operation": "upsert",
+      "source": "affiliate_b",
+      "payload": {
+        "eventId": "ab_0030",
+        "advertiser": {
+          "name": "ValueMart",
+          "id": "0BF934"
+        },
+        "item": {
+          "title": "PinePhone 15 256GB Black clearance",
+          "merchantItemId": "1B9E-P15-2A6",
+          "identifiers": {
+            "globalTradeItemNumber": "00850000300220",
+            "manufacturerCode": "P15-256-BLK"
+          },
+          "variant": {
+            "storage_gb": 256,
+            "color": "black",
+            "carrier": "unlocked",
+            "condition": "new",
+            "bundle": "standalone"
+          }
+        },
+        "pricing": {
+          "current": 695.22,
+          "original": 749.0,
+          "currencyCode": "USD",
+          "promotion": {}
+        },
+        "stock": {
+          "status": "in_stock",
+          "capturedAt": "2026-08-09T23:25:26.556141Z"
+        },
+        "trackingUrl": "https://affiliate-b.invalid/t/1B9E-P15-2A6",
+        "contentLineage": null,
+        "semantics": {
+          "identifierScopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "productType": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "contentOrigin": null,
+          "priceKind": "total_purchase_price",
+          "comparabilityHint": "COMPARABLE"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_023",
+      "idempotency_key": "inc-20260811-023",
+      "operation": "upsert",
+      "source": "affiliate_a",
+      "payload": {
+        "record_id": "aa_0022",
+        "merchant": "HomeHub",
+        "merchant_sku": "24B7-AB13-M4-FAC",
+        "product_name": "Orchard AirBook 13 M4 AB13-M4 256GB 16GB RAM 13.6-inch midnight",
+        "sale_price": "1033.74",
+        "retail_price": "1033.74",
+        "currency": "USD",
+        "ean": "00850000200117",
+        "manufacturer_part_number": "AB13M4-16256-MD",
+        "availability": "in_stock",
+        "condition": "new",
+        "promotion_text": "",
+        "deep_link": "https://affiliate-a.invalid/click/24B7-AB13-M4-FAC",
+        "last_updated": "2026-08-12T12:00:00Z",
+        "price_kind": "total_purchase_price",
+        "comparability": "COMPARABLE",
+        "upstream_origin": "",
+        "product_type": "primary_product",
+        "exclusions": "[]"
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_024",
+      "idempotency_key": "inc-20260811-024",
+      "operation": "upsert",
+      "source": "community_deals",
+      "payload": {
+        "report_id": "cd_0022",
+        "title": "NP5 Slim with optical drive NP5 SLIM 1000GB disc",
+        "merchant": "Glow Market",
+        "merchant_hint_sku": "685A-NP5-SLIM-8DE",
+        "reported_price": 424.06,
+        "usual_price": 499.99,
+        "coupon_code": null,
+        "requirements": "",
+        "availability_claim": "in_stock",
+        "posted_at": "2026-08-12T13:00:00Z",
+        "url": "https://community.invalid/deal/cd_0022",
+        "user_confidence": 0.54,
+        "partial_identifiers": {
+          "gtin": "00850000400319",
+          "mpn": "NP5S-DISC"
+        },
+        "offer_context": {},
+        "price_kind": "total_purchase_price",
+        "content_origin": null,
+        "product_type": "primary_product",
+        "relationships": {},
+        "exclusions": [],
+        "comparability_hint": "COMPARABLE"
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_025",
+      "idempotency_key": "inc-20260811-025",
+      "operation": "upsert",
+      "source": "affiliate_a",
+      "payload": {
+        "record_id": "aa_0023",
+        "merchant": "ValueMart",
+        "merchant_sku": "510B-PEG41-03C",
+        "product_name": "AeroRun Peg 41 men's runner black size 10 PEG41 black/white single pair",
+        "sale_price": "121.80",
+        "retail_price": "139.99",
+        "currency": "USD",
+        "ean": "",
+        "manufacturer_part_number": "",
+        "availability": "in_stock",
+        "condition": "new",
+        "promotion_text": "",
+        "deep_link": "https://affiliate-a.invalid/click/510B-PEG41-03C",
+        "last_updated": "2026-08-12T14:00:00Z",
+        "price_kind": "total_purchase_price",
+        "comparability": "COMPARABLE",
+        "upstream_origin": "",
+        "product_type": "primary_product",
+        "exclusions": "[]"
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_026",
+      "idempotency_key": "inc-20260811-026",
+      "operation": "upsert",
+      "source": "extension_observations",
+      "payload": {
+        "capture_id": "xo_0030",
+        "page_url": "https://valuemart.invalid/product/EAB4-MVN7-CC0",
+        "merchant": "ValueMart",
+        "dom": {
+          "title": "Maison Vale No. 7 Eau de Parfum MVN7 100 mL",
+          "priceText": "$115.64",
+          "priceKind": "total_purchase_price",
+          "stockText": "in_stock",
+          "selectedOptions": {
+            "volume_ml": 100,
+            "formulation": "eau_de_parfum",
+            "condition": "new",
+            "bundle": "single"
+          }
+        },
+        "observed_at": "2026-08-12T15:00:00Z",
+        "partial_identifiers": {
+          "gtin": "00850001101025",
+          "mpn": "MV-N7-EDP100"
+        },
+        "promotion_badges": [
+          "local_only",
+          "location"
+        ],
+        "offer_context": {
+          "local_only": true,
+          "location": "select stores"
+        },
+        "content_origin": null,
+        "semantic_hints": {
+          "productType": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "identifierScopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "comparability": "CONDITIONAL"
+        }
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_027",
+      "idempotency_key": "inc-20260811-027",
+      "operation": "upsert",
+      "source": "community_deals",
+      "payload": {
+        "report_id": "cd_0023",
+        "title": "Ember Kitchen EM 500 countertop blender black EM500 standard pitcher",
+        "merchant": "HomeHub",
+        "merchant_hint_sku": "2841-EM500-D26",
+        "reported_price": 127.96,
+        "usual_price": 149.99,
+        "coupon_code": null,
+        "requirements": "",
+        "availability_claim": "in_stock",
+        "posted_at": "2026-08-12T16:00:00Z",
+        "url": "https://community.invalid/deal/cd_0023",
+        "user_confidence": 0.37,
+        "partial_identifiers": {
+          "gtin": "0085000130121?",
+          "mpn": "EM500-BLK"
+        },
+        "offer_context": {},
+        "price_kind": "total_purchase_price",
+        "content_origin": null,
+        "product_type": "primary_product",
+        "relationships": {},
+        "exclusions": [],
+        "comparability_hint": "COMPARABLE"
+      },
+      "phase": 1
+    },
+    {
+      "event_id": "inc_018",
+      "idempotency_key": "inc-20260811-018",
+      "operation": "correct",
+      "source": "extension_observations",
+      "payload": {
+        "capture_id": "xo_0027",
+        "page_url": "https://valuemart.invalid/product/P16-CONFIGURABLE",
+        "merchant": "ValueMart",
+        "dom": {
+          "title": "PinePhone 16",
+          "priceText": "$1,073.28",
+          "priceKind": "total_purchase_price",
+          "stockText": "in_stock",
+          "selectedOptions": {
+            "storage_gb": 512,
+            "color": "black",
+            "carrier": "unlocked",
+            "condition": "new",
+            "bundle": "standalone"
+          }
+        },
+        "observed_at": "2026-08-11T12:20:00Z",
+        "partial_identifiers": {},
+        "promotion_badges": [
+          "local_only",
+          "location"
+        ],
+        "offer_context": {
+          "local_only": true,
+          "location": "select stores"
+        },
+        "content_origin": null,
+        "semantic_hints": {
+          "productType": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "identifierScopes": {},
+          "comparability": "CONDITIONAL"
+        }
+      },
+      "phase": 2,
+      "corrects_listing_id": "xo_0015"
+    },
+    {
+      "event_id": "inc_019",
+      "idempotency_key": "inc-20260811-019",
+      "operation": "correct",
+      "source": "retailer_api",
+      "payload": {
+        "observation_id": "ra_0038",
+        "store": {
+          "display_name": "ValueMart",
+          "store_id": "44BCF"
+        },
+        "sku": "1CC9-P16-4B8",
+        "product": {
+          "name": "PinePhone 16 512GB",
+          "brand": "PinePhone",
+          "model": "P16-512-BLK",
+          "barcode": null,
+          "specifications": {
+            "storage_gb": 512,
+            "color": "black",
+            "carrier": "unlocked",
+            "condition": "new",
+            "bundle": "standalone"
+          }
+        },
+        "offer": {
+          "price": {
+            "amount": 994.48,
+            "currency": "USD"
+          },
+          "listPrice": 1099.0,
+          "availabilityCode": "in_stock",
+          "terms": {
+            "membership_required": "Plus Club"
+          }
+        },
+        "observed_at": "2026-08-11T12:40:00Z",
+        "product_url": "https://valuemart.invalid/p/1CC9-P16-4B8",
+        "semantics": {
+          "identifier_scopes": {
+            "mpn": "exact_variant"
+          },
+          "product_type": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "content_origin": null,
+          "price_kind": "total_purchase_price",
+          "comparability_hint": "CONDITIONAL"
+        }
+      },
+      "phase": 2,
+      "corrects_listing_id": "ra_0022"
+    },
+    {
+      "event_id": "inc_022",
+      "idempotency_key": "inc-20260811-022",
+      "operation": "upsert",
+      "source": "extension_observations",
+      "payload": {
+        "capture_id": "xo_0029",
+        "page_url": "https://glow-market.invalid/product/7C98-LLBC15-D36",
+        "merchant": "Glow Market",
+        "dom": {
+          "title": "Lumina Bright-C 30 mL",
+          "priceText": "$42.00",
+          "priceKind": "total_purchase_price",
+          "stockText": "in_stock",
+          "selectedOptions": {
+            "volume_ml": 30,
+            "formulation": "standard",
+            "condition": "new",
+            "bundle": "single"
+          }
+        },
+        "observed_at": "2026-08-11T13:10:00Z",
+        "partial_identifiers": {
+          "gtin": "00850001000914",
+          "mpn": "LL-BC15-30"
+        },
+        "promotion_badges": [],
+        "offer_context": {},
+        "content_origin": null,
+        "semantic_hints": {
+          "productType": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "identifierScopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "comparability": "COMPARABLE"
+        }
+      },
+      "phase": 2
+    },
+    {
+      "event_id": "inc_020",
+      "idempotency_key": "inc-20260811-020",
+      "operation": "correct",
+      "source": "extension_observations",
+      "payload": {
+        "capture_id": "xo_0028",
+        "page_url": "https://valuemart.invalid/product/P16-CONFIGURABLE",
+        "merchant": "ValueMart",
+        "dom": {
+          "title": "PinePhone 16",
+          "priceText": "$661.25",
+          "priceKind": "total_purchase_price",
+          "stockText": "in_stock",
+          "selectedOptions": {
+            "storage_gb": 128,
+            "color": "black",
+            "carrier": "unlocked",
+            "condition": "new",
+            "bundle": "standalone"
+          }
+        },
+        "observed_at": "2026-08-11T13:20:00Z",
+        "partial_identifiers": {
+          "mpn": "P16-128-BLK"
+        },
+        "promotion_badges": [],
+        "offer_context": {},
+        "content_origin": null,
+        "semantic_hints": {
+          "productType": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "identifierScopes": {
+            "mpn": "exact_variant"
+          },
+          "comparability": "COMPARABLE"
+        }
+      },
+      "phase": 3,
+      "corrects_listing_id": "xo_0027"
+    },
+    {
+      "event_id": "inc_021",
+      "idempotency_key": "inc-20260811-021",
+      "operation": "correct",
+      "source": "retailer_api",
+      "payload": {
+        "observation_id": "ra_0039",
+        "store": {
+          "display_name": "ValueMart",
+          "store_id": "44BCF"
+        },
+        "sku": "PINE-CORRECTION-LOT-7",
+        "product": {
+          "name": "PinePhone 17 256GB Black",
+          "brand": "PinePhone",
+          "model": "P17-256-BLK",
+          "barcode": "00850000300268",
+          "specifications": {
+            "storage_gb": 256,
+            "color": "black",
+            "carrier": "unlocked",
+            "condition": "new",
+            "bundle": "standalone"
+          }
+        },
+        "offer": {
+          "price": {
+            "amount": 798.79,
+            "currency": "USD"
+          },
+          "listPrice": 899.0,
+          "availabilityCode": "in_stock",
+          "terms": {}
+        },
+        "observed_at": "2026-08-11T13:30:00Z",
+        "product_url": "https://valuemart.invalid/p/PINE-CORRECTION-LOT-7",
+        "semantics": {
+          "identifier_scopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "product_type": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "content_origin": null,
+          "price_kind": "total_purchase_price",
+          "comparability_hint": "COMPARABLE"
+        }
+      },
+      "phase": 3,
+      "corrects_listing_id": "ra_0021"
+    }
+  ]
+}

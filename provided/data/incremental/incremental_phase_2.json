@@ -1,0 +1,145 @@
+{
+  "batch_id": "incremental-2026-08-11-phase-2",
+  "phase": 2,
+  "events": [
+    {
+      "event_id": "inc_018",
+      "idempotency_key": "inc-20260811-018",
+      "operation": "correct",
+      "source": "extension_observations",
+      "payload": {
+        "capture_id": "xo_0027",
+        "page_url": "https://valuemart.invalid/product/P16-CONFIGURABLE",
+        "merchant": "ValueMart",
+        "dom": {
+          "title": "PinePhone 16",
+          "priceText": "$1,073.28",
+          "priceKind": "total_purchase_price",
+          "stockText": "in_stock",
+          "selectedOptions": {
+            "storage_gb": 512,
+            "color": "black",
+            "carrier": "unlocked",
+            "condition": "new",
+            "bundle": "standalone"
+          }
+        },
+        "observed_at": "2026-08-11T12:20:00Z",
+        "partial_identifiers": {},
+        "promotion_badges": [
+          "local_only",
+          "location"
+        ],
+        "offer_context": {
+          "local_only": true,
+          "location": "select stores"
+        },
+        "content_origin": null,
+        "semantic_hints": {
+          "productType": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "identifierScopes": {},
+          "comparability": "CONDITIONAL"
+        }
+      },
+      "phase": 2,
+      "corrects_listing_id": "xo_0015"
+    },
+    {
+      "event_id": "inc_019",
+      "idempotency_key": "inc-20260811-019",
+      "operation": "correct",
+      "source": "retailer_api",
+      "payload": {
+        "observation_id": "ra_0038",
+        "store": {
+          "display_name": "ValueMart",
+          "store_id": "44BCF"
+        },
+        "sku": "1CC9-P16-4B8",
+        "product": {
+          "name": "PinePhone 16 512GB",
+          "brand": "PinePhone",
+          "model": "P16-512-BLK",
+          "barcode": null,
+          "specifications": {
+            "storage_gb": 512,
+            "color": "black",
+            "carrier": "unlocked",
+            "condition": "new",
+            "bundle": "standalone"
+          }
+        },
+        "offer": {
+          "price": {
+            "amount": 994.48,
+            "currency": "USD"
+          },
+          "listPrice": 1099.0,
+          "availabilityCode": "in_stock",
+          "terms": {
+            "membership_required": "Plus Club"
+          }
+        },
+        "observed_at": "2026-08-11T12:40:00Z",
+        "product_url": "https://valuemart.invalid/p/1CC9-P16-4B8",
+        "semantics": {
+          "identifier_scopes": {
+            "mpn": "exact_variant"
+          },
+          "product_type": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "content_origin": null,
+          "price_kind": "total_purchase_price",
+          "comparability_hint": "CONDITIONAL"
+        }
+      },
+      "phase": 2,
+      "corrects_listing_id": "ra_0022"
+    },
+    {
+      "event_id": "inc_022",
+      "idempotency_key": "inc-20260811-022",
+      "operation": "upsert",
+      "source": "extension_observations",
+      "payload": {
+        "capture_id": "xo_0029",
+        "page_url": "https://glow-market.invalid/product/7C98-LLBC15-D36",
+        "merchant": "Glow Market",
+        "dom": {
+          "title": "Lumina Bright-C 30 mL",
+          "priceText": "$42.00",
+          "priceKind": "total_purchase_price",
+          "stockText": "in_stock",
+          "selectedOptions": {
+            "volume_ml": 30,
+            "formulation": "standard",
+            "condition": "new",
+            "bundle": "single"
+          }
+        },
+        "observed_at": "2026-08-11T13:10:00Z",
+        "partial_identifiers": {
+          "gtin": "00850001000914",
+          "mpn": "LL-BC15-30"
+        },
+        "promotion_badges": [],
+        "offer_context": {},
+        "content_origin": null,
+        "semantic_hints": {
+          "productType": "primary_product",
+          "relationships": {},
+          "excludes": [],
+          "identifierScopes": {
+            "gtin": "exact_variant",
+            "mpn": "exact_variant"
+          },
+          "comparability": "COMPARABLE"
+        }
+      },
+      "phase": 2
+    }
+  ]
+}

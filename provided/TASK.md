@@ -1,0 +1,3 @@
+# Start here
+
+Read `CANDIDATE_INSTRUCTIONS.md`, then `SUBMISSION_CONTRACT.md`.

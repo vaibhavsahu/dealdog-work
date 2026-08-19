@@ -1,0 +1,1366 @@
+{
+  "request_id": "req-mvp-20260810",
+  "items": [
+    {
+      "observation_id": "ra_0001",
+      "store": {
+        "display_name": "BestElectro",
+        "store_id": "CFC16"
+      },
+      "sku": "C7BF-XM6-5E8",
+      "product": {
+        "name": "Auralux XM6 premium wireless headphones black",
+        "brand": "Auralux",
+        "model": null,
+        "barcode": null,
+        "specifications": {
+          "color": "black",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 429.99,
+          "currency": "USD"
+        },
+        "listPrice": 449.99,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T19:40:00Z",
+      "product_url": "https://bestelectro.invalid/p/C7BF-XM6-5E8",
+      "semantics": {
+        "identifier_scopes": {},
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0002",
+      "store": {
+        "display_name": "BestElectro",
+        "store_id": "CFC16"
+      },
+      "sku": "01D4-XM6-AFF",
+      "product": {
+        "name": "Auralux XM6 Black - Open Box Excellent",
+        "brand": "Auralux",
+        "model": "AL-XM6-B-OB",
+        "barcode": "00850000100011",
+        "specifications": {
+          "color": "black",
+          "condition": "open_box",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 356.09,
+          "currency": "USD"
+        },
+        "listPrice": 379.99,
+        "availabilityCode": "in_stock",
+        "terms": {
+          "membership_required": "Plus Club"
+        }
+      },
+      "observed_at": "2026-08-10T18:02:20.561299Z",
+      "product_url": "https://bestelectro.invalid/p/01D4-XM6-AFF",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "NOT_COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0003",
+      "store": {
+        "display_name": "BestElectro",
+        "store_id": "CFC16"
+      },
+      "sku": "6AC4-ABP2-016",
+      "product": {
+        "name": "Orchard AirBuds Pro 2 with USB-C case",
+        "brand": "Orchard",
+        "model": "ABP2-USBC",
+        "barcode": "00850000600511",
+        "specifications": {
+          "case_connector": "usb-c",
+          "generation": 2,
+          "color": "white",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 230.28,
+          "currency": "USD"
+        },
+        "listPrice": 249.0,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T12:59:02.658381Z",
+      "product_url": "https://bestelectro.invalid/p/6AC4-ABP2-016",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0004",
+      "store": {
+        "display_name": "BestElectro",
+        "store_id": "CFC16"
+      },
+      "sku": "A30F-NP5-SLIM-DCB",
+      "product": {
+        "name": "NovaPlay 5 Slim 1TB Disc Console",
+        "brand": "NovaPlay",
+        "model": "NP5S-DISC",
+        "barcode": "00850000400319",
+        "specifications": {
+          "edition": "disc",
+          "storage_gb": 1000,
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 449.06,
+          "currency": "USD"
+        },
+        "listPrice": 499.99,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T16:02:05.049886Z",
+      "product_url": "https://bestelectro.invalid/p/A30F-NP5-SLIM-DCB",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0005",
+      "store": {
+        "display_name": "BestElectro",
+        "store_id": "CFC16"
+      },
+      "sku": "16E2-NP5-SLIM-D9E",
+      "product": {
+        "name": "NovaPlay 5 Slim Disc Adventure Quest Official Pack",
+        "brand": "NovaPlay",
+        "model": "NP5S-DISC-ADV",
+        "barcode": "0085000040033?",
+        "specifications": {
+          "edition": "disc",
+          "storage_gb": 1000,
+          "condition": "new",
+          "bundle": "adventure_game"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 566.62,
+          "currency": "USD"
+        },
+        "listPrice": 566.62,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T15:41:58.371328Z",
+      "product_url": "https://bestelectro.invalid/p/16E2-NP5-SLIM-D9E",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0006",
+      "store": {
+        "display_name": "Glow Market",
+        "store_id": "688BF"
+      },
+      "sku": "7C98-LLBC15-D36",
+      "product": {
+        "name": "Lumina Labs Bright-C 15% Serum 30 mL",
+        "brand": "Lumina",
+        "model": "LL-BC15-30",
+        "barcode": "00850001000914",
+        "specifications": {
+          "volume_ml": 30,
+          "formulation": "standard",
+          "condition": "new",
+          "bundle": "single"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 42.53,
+          "currency": "USD"
+        },
+        "listPrice": 42.53,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T08:09:17.239800Z",
+      "product_url": "https://glow-market.invalid/p/7C98-LLBC15-D36",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0007",
+      "store": {
+        "display_name": "HomeHub",
+        "store_id": "CD639"
+      },
+      "sku": "D5FA-CV12-20D",
+      "product": {
+        "name": "Cyclone V12 Pet Kit + Extra Battery",
+        "brand": "Cyclone",
+        "model": null,
+        "barcode": null,
+        "specifications": {
+          "generation": 12,
+          "condition": "new",
+          "bundle": "pet_tool_plus_battery"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 590.82,
+          "currency": "USD"
+        },
+        "listPrice": 649.99,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-03T17:26:19.759647Z",
+      "product_url": "https://homehub.invalid/p/D5FA-CV12-20D",
+      "semantics": {
+        "identifier_scopes": {},
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0008",
+      "store": {
+        "display_name": "BestElectro",
+        "store_id": "CFC16"
+      },
+      "sku": "F432-VVQ65-25-07F",
+      "product": {
+        "name": "VistaView 65-inch 2025 Quantum QLED",
+        "brand": "VistaView",
+        "model": "VVQ65-25",
+        "barcode": "00850000500439",
+        "specifications": {
+          "screen_in": 65,
+          "panel": "qled",
+          "generation": 2025,
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 781.73,
+          "currency": "USD"
+        },
+        "listPrice": 899.99,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-07-27T15:39:47.685832Z",
+      "product_url": "https://bestelectro.invalid/p/F432-VVQ65-25-07F",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0009",
+      "store": {
+        "display_name": "BestElectro",
+        "store_id": "CFC16"
+      },
+      "sku": "47CB-XM5-25B",
+      "product": {
+        "name": "Auralux SilencePro XM5 wireless headphones black",
+        "brand": "Auralux",
+        "model": null,
+        "barcode": null,
+        "specifications": {
+          "color": "black",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 357.88,
+          "currency": "USD"
+        },
+        "listPrice": 357.88,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T10:08:55.147899Z",
+      "product_url": "https://bestelectro.invalid/p/47CB-XM5-25B",
+      "semantics": {
+        "identifier_scopes": {},
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0010",
+      "store": {
+        "display_name": "ValueMart",
+        "store_id": "44BCF"
+      },
+      "sku": "137D-AB13-M4-563",
+      "product": {
+        "name": "Orchard AirBook 13 M4 16GB 256GB Midnight",
+        "brand": "Orchard",
+        "model": "AB13M4-16256-MD",
+        "barcode": "85000020011",
+        "specifications": {
+          "screen_in": 13.6,
+          "ram_gb": 16,
+          "storage_gb": 256,
+          "color": "midnight",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 1033.15,
+          "currency": "USD"
+        },
+        "listPrice": 1033.15,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T10:52:56.623589Z",
+      "product_url": "https://valuemart.invalid/p/137D-AB13-M4-563",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0011",
+      "store": {
+        "display_name": "ValueMart",
+        "store_id": "44BCF"
+      },
+      "sku": "6A9A-AB13-M4-96B",
+      "product": {
+        "name": "AirBook M4 13 16GB 512GB - seller metadata says 256GB",
+        "brand": "AirBook",
+        "model": "AB13M4-16512-MD",
+        "barcode": "00850000200124",
+        "specifications": {
+          "screen_in": 13.6,
+          "ram_gb": 16,
+          "storage_gb": 256,
+          "color": "midnight",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 1030.54,
+          "currency": "USD"
+        },
+        "listPrice": 1199.0,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T12:13:32.511954Z",
+      "product_url": "https://valuemart.invalid/p/6A9A-AB13-M4-96B",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0012",
+      "store": {
+        "display_name": "Glow Market",
+        "store_id": "688BF"
+      },
+      "sku": "35D6-LLBC15-38B",
+      "product": {
+        "name": "Lumina Bright-C Twin Pack 2 x 30 mL (60 mL total)",
+        "brand": "Lumina",
+        "model": "LL-BC15-30-2",
+        "barcode": "00850001000938",
+        "specifications": {
+          "volume_ml": 30,
+          "formulation": "standard",
+          "condition": "new",
+          "bundle": "2_pack"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 72.35,
+          "currency": "USD"
+        },
+        "listPrice": 76.0,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T14:21:43.743905Z",
+      "product_url": "https://glow-market.invalid/p/35D6-LLBC15-38B",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0013",
+      "store": {
+        "display_name": "ValueMart",
+        "store_id": "44BCF"
+      },
+      "sku": "P16-CONFIGURABLE",
+      "product": {
+        "name": "PinePhone 16",
+        "brand": "PinePhone",
+        "model": null,
+        "barcode": null,
+        "specifications": {
+          "storage_gb": 512,
+          "color": "black",
+          "carrier": "unlocked",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 749.0,
+          "currency": "USD"
+        },
+        "listPrice": 1099.0,
+        "availabilityCode": "out_of_stock",
+        "terms": {
+          "membership_required": "Plus Club"
+        }
+      },
+      "observed_at": "2026-08-10T12:38:24.765126Z",
+      "product_url": "https://valuemart.invalid/p/P16-CONFIGURABLE",
+      "semantics": {
+        "identifier_scopes": {
+          "merchant_sku": "configurable_offer"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "CONDITIONAL"
+      }
+    },
+    {
+      "observation_id": "ra_0014",
+      "store": {
+        "display_name": "BestElectro",
+        "store_id": "CFC16"
+      },
+      "sku": "7707-HARC2-604",
+      "product": {
+        "name": "Horizon Arc 2 Smartwatch",
+        "brand": "Horizon",
+        "model": null,
+        "barcode": null,
+        "specifications": {
+          "case_size_mm": 41,
+          "connectivity": "gps_cellular",
+          "case_material": "aluminum",
+          "color": "midnight",
+          "band_configuration": "sport_band",
+          "condition": "new",
+          "bundle": "watch_only"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 388.43,
+          "currency": "USD"
+        },
+        "listPrice": 499.0,
+        "availabilityCode": "in_stock",
+        "terms": {
+          "coupon_code": "SAVE80",
+          "required": true
+        }
+      },
+      "observed_at": "2026-08-10T18:22:34.856422Z",
+      "product_url": "https://bestelectro.invalid/p/7707-HARC2-604",
+      "semantics": {
+        "identifier_scopes": {},
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "CONDITIONAL"
+      }
+    },
+    {
+      "observation_id": "ra_0015",
+      "store": {
+        "display_name": "BestElectro",
+        "store_id": "CFC16"
+      },
+      "sku": "A746-QNVX-476",
+      "product": {
+        "name": "Quanta NVX Pro Solid State Drive",
+        "brand": "Quanta",
+        "model": null,
+        "barcode": null,
+        "specifications": {
+          "capacity_gb": 2000,
+          "interface": "pcie_4_nvme",
+          "form_factor": "m2_2280",
+          "heatsink": "none",
+          "condition": "new",
+          "bundle": "drive_only"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 79.99,
+          "currency": "USD"
+        },
+        "listPrice": 159.99,
+        "availabilityCode": "in_stock",
+        "terms": {
+          "local_only": true,
+          "location": "select stores"
+        }
+      },
+      "observed_at": "2026-08-10T16:45:01.600043Z",
+      "product_url": "https://bestelectro.invalid/p/A746-QNVX-476",
+      "semantics": {
+        "identifier_scopes": {},
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "CONDITIONAL"
+      }
+    },
+    {
+      "schema_version": "2026-08-compact",
+      "observation_id": "ra_0016",
+      "store": {
+        "display_name": "BestElectro",
+        "store_id": "CFC16"
+      },
+      "sku": "E4E7-QNVX-F3C",
+      "product": {
+        "displayName": "Quanta NVX Pro Solid State Drive",
+        "identity": {
+          "brand": "Quanta",
+          "model": "QNVX",
+          "codes": {}
+        },
+        "configuration": [
+          {
+            "key": "capacity_gb",
+            "value": 1000
+          },
+          {
+            "key": "interface",
+            "value": "pcie_4_nvme"
+          },
+          {
+            "key": "form_factor",
+            "value": "m2_2280"
+          },
+          {
+            "key": "heatsink",
+            "value": "none"
+          },
+          {
+            "key": "condition",
+            "value": "new"
+          },
+          {
+            "key": "bundle",
+            "value": "drive_only"
+          }
+        ]
+      },
+      "offer": {
+        "money": {
+          "minorAmount": 9209,
+          "currency": "USD"
+        },
+        "compareAtMinorAmount": 9209,
+        "availability": "out_of_stock",
+        "context": {}
+      },
+      "observed_at": "2026-08-10T18:48:23.884515Z",
+      "product_url": "https://bestelectro.invalid/p/E4E7-QNVX-F3C",
+      "semantics": {
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price"
+      }
+    },
+    {
+      "observation_id": "ra_0017",
+      "store": {
+        "display_name": "BestElectro",
+        "store_id": "CFC16"
+      },
+      "sku": "F432-VVQ65-25-07F",
+      "product": {
+        "name": "VistaView Q65 2025 television",
+        "brand": "VistaView",
+        "model": "VVQ-2025-FAMILY",
+        "barcode": null,
+        "specifications": {
+          "screen_in": 65,
+          "panel": "qled",
+          "generation": 2025,
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 772.13,
+          "currency": "USD"
+        },
+        "listPrice": 899.99,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T09:03:25.211524Z",
+      "product_url": "https://bestelectro.invalid/p/F432-VVQ65-25-07F",
+      "semantics": {
+        "identifier_scopes": {
+          "mpn": "universal_product_family"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0018",
+      "store": {
+        "display_name": "Stride House",
+        "store_id": "B342B"
+      },
+      "sku": "D782-PEG41-364",
+      "product": {
+        "name": "AeroRun Pegasus 41 men's black US 11",
+        "brand": "AeroRun",
+        "model": "AR41M-BW",
+        "barcode": null,
+        "specifications": {
+          "department": "mens",
+          "size_us": "11",
+          "color": "black/white",
+          "style_code": "AR41M-BW",
+          "condition": "new",
+          "bundle": "single_pair"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 142.16,
+          "currency": "USD"
+        },
+        "listPrice": 142.16,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T11:02:25.442546Z",
+      "product_url": "https://stride-house.invalid/p/D782-PEG41-364",
+      "semantics": {
+        "identifier_scopes": {
+          "mpn": "style_colorway"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0019",
+      "store": {
+        "display_name": "Glow Market",
+        "store_id": "688BF"
+      },
+      "sku": "7C98-LLBC15-D36",
+      "product": {
+        "name": "Lumina Bright-C 30 mL Subscribe & Save",
+        "brand": "Lumina",
+        "model": "LL-BC15-30",
+        "barcode": "00850001000914",
+        "specifications": {
+          "volume_ml": 30,
+          "formulation": "standard",
+          "condition": "new",
+          "bundle": "single"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 42.0,
+          "currency": "USD"
+        },
+        "listPrice": 42.0,
+        "availabilityCode": "in_stock",
+        "terms": {
+          "subscribe_and_save": {
+            "discount_percent": 10,
+            "effective_price": 37.8,
+            "recurrence": "recurring"
+          }
+        }
+      },
+      "observed_at": "2026-07-26T19:18:48.083550Z",
+      "product_url": "https://glow-market.invalid/p/7C98-LLBC15-D36",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "CONDITIONAL"
+      }
+    },
+    {
+      "observation_id": "ra_0020",
+      "store": {
+        "display_name": "BestElectro",
+        "store_id": "CFC16"
+      },
+      "sku": "C7BF-XM6-5E8",
+      "product": {
+        "name": "Auralux XM6 Black members pay 389.99",
+        "brand": "Auralux",
+        "model": "AL-XM6-B",
+        "barcode": "0085000010001?",
+        "specifications": {
+          "color": "black",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 429.99,
+          "currency": "USD"
+        },
+        "listPrice": 449.99,
+        "availabilityCode": "in_stock",
+        "terms": {
+          "membership_required": "Plus Club",
+          "conditional_price": 389.99
+        }
+      },
+      "observed_at": "2026-08-10T11:05:08.859034Z",
+      "product_url": "https://bestelectro.invalid/p/C7BF-XM6-5E8",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "CONDITIONAL"
+      }
+    },
+    {
+      "observation_id": "ra_0021",
+      "store": {
+        "display_name": "ValueMart",
+        "store_id": "44BCF"
+      },
+      "sku": "PINE-CORRECTION-LOT-7",
+      "product": {
+        "name": "PinePhone 16 256GB Black",
+        "brand": "PinePhone",
+        "model": null,
+        "barcode": null,
+        "specifications": {
+          "storage_gb": 256,
+          "color": "black",
+          "carrier": "unlocked",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 766.47,
+          "currency": "USD"
+        },
+        "listPrice": 899.0,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T18:00:00Z",
+      "product_url": "https://valuemart.invalid/p/PINE-CORRECTION-LOT-7",
+      "semantics": {
+        "identifier_scopes": {},
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0022",
+      "store": {
+        "display_name": "ValueMart",
+        "store_id": "44BCF"
+      },
+      "sku": "F687-P16-565",
+      "product": {
+        "name": "PinePhone 16 512GB",
+        "brand": "PinePhone",
+        "model": null,
+        "barcode": null,
+        "specifications": {
+          "storage_gb": 128,
+          "color": "black",
+          "carrier": "unlocked",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 743.62,
+          "currency": "USD"
+        },
+        "listPrice": 799.0,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T09:01:54.501716Z",
+      "product_url": "https://valuemart.invalid/p/F687-P16-565",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0023",
+      "store": {
+        "display_name": "HomeHub",
+        "store_id": "CD639"
+      },
+      "sku": "7A59-XM6-44C",
+      "product": {
+        "name": "Auralux XM6 premium headphones black open box XM6",
+        "brand": "Auralux",
+        "model": "AL-XM6-B-OB",
+        "barcode": "00850000100011",
+        "specifications": {
+          "color": "black",
+          "condition": "open_box",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 351.12,
+          "currency": "USD"
+        },
+        "listPrice": 379.99,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T14:21:29.453925Z",
+      "product_url": "https://homehub.invalid/p/7A59-XM6-44C",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "NOT_COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0024",
+      "store": {
+        "display_name": "BestElectro",
+        "store_id": "CFC16"
+      },
+      "sku": "85BB-P16-EF7",
+      "product": {
+        "name": "PinePhone 16 P16 256GB black",
+        "brand": "PinePhone",
+        "model": "P16-256-BLK",
+        "barcode": "00850000300220",
+        "specifications": {
+          "storage_gb": 256,
+          "color": "black",
+          "carrier": "unlocked",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 738.74,
+          "currency": "USD"
+        },
+        "listPrice": 899.0,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T19:13:36.659446Z",
+      "product_url": "https://bestelectro.invalid/p/85BB-P16-EF7",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0025",
+      "store": {
+        "display_name": "HomeHub",
+        "store_id": "CD639"
+      },
+      "sku": "E111-NP5-SLIM-593",
+      "product": {
+        "name": "NovaPlay 5 Slim Console Adventure Bundle NP5 SLIM disc",
+        "brand": "NovaPlay",
+        "model": "NP5S-DISC-ADV",
+        "barcode": "00850000400333",
+        "specifications": {
+          "edition": "disc",
+          "storage_gb": 1000,
+          "condition": "new",
+          "bundle": "adventure_game"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 543.67,
+          "currency": "USD"
+        },
+        "listPrice": 559.99,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T13:48:18.251012Z",
+      "product_url": "https://homehub.invalid/p/E111-NP5-SLIM-593",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0026",
+      "store": {
+        "display_name": "ValueMart",
+        "store_id": "44BCF"
+      },
+      "sku": "986E-ABP2-CD8",
+      "product": {
+        "name": "Orchard AirBuds Pro 2 ABP2 USB-C",
+        "brand": "Orchard",
+        "model": null,
+        "barcode": null,
+        "specifications": {
+          "case_connector": "usb-c",
+          "generation": 2,
+          "color": "white",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 239.32,
+          "currency": "USD"
+        },
+        "listPrice": 249.0,
+        "availabilityCode": "limited",
+        "terms": {}
+      },
+      "observed_at": "2026-07-27T11:51:10.580501Z",
+      "product_url": "https://valuemart.invalid/p/986E-ABP2-CD8",
+      "semantics": {
+        "identifier_scopes": {},
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0027",
+      "store": {
+        "display_name": "ValueMart",
+        "store_id": "44BCF"
+      },
+      "sku": "4C18-PEG41-7F0",
+      "product": {
+        "name": "AeroRun Pegasus 41 Road Running Shoes PEG41 black/white womens US 10 single pair",
+        "brand": "AeroRun",
+        "model": "AR41W-BW-10",
+        "barcode": "00850000700648",
+        "specifications": {
+          "department": "womens",
+          "size_us": "10",
+          "color": "black/white",
+          "style_code": "AR41W-BW",
+          "condition": "new",
+          "bundle": "single_pair"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 132.03,
+          "currency": "USD"
+        },
+        "listPrice": 139.99,
+        "availabilityCode": "out_of_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T11:40:35.710528Z",
+      "product_url": "https://valuemart.invalid/p/4C18-PEG41-7F0",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0028",
+      "store": {
+        "display_name": "ValueMart",
+        "store_id": "44BCF"
+      },
+      "sku": "6CEC-CCT100-DE4",
+      "product": {
+        "name": "CoreCotton Everyday Crew Tee 2-Pack CCT100 black mens M 2 pack",
+        "brand": "CoreCotton",
+        "model": "CCT100-M-BLK-2",
+        "barcode": "00850000900826",
+        "specifications": {
+          "department": "mens",
+          "size": "M",
+          "color": "black",
+          "condition": "new",
+          "bundle": "2_pack"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 26.27,
+          "currency": "USD"
+        },
+        "listPrice": 30.0,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-05T22:50:27.719575Z",
+      "product_url": "https://valuemart.invalid/p/6CEC-CCT100-DE4",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0029",
+      "store": {
+        "display_name": "HomeHub",
+        "store_id": "CD639"
+      },
+      "sku": "7114-MVN7-B9B",
+      "product": {
+        "name": "Maison Vale No 7 EDP 3.4 oz MVN7 100 mL",
+        "brand": "Maison",
+        "model": "MV-N7-EDP100",
+        "barcode": "00850001101025",
+        "specifications": {
+          "volume_ml": 100,
+          "formulation": "eau_de_parfum",
+          "condition": "new",
+          "bundle": "single"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 107.77,
+          "currency": "USD"
+        },
+        "listPrice": 128.0,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T16:42:21.313427Z",
+      "product_url": "https://homehub.invalid/p/7114-MVN7-B9B",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0030",
+      "store": {
+        "display_name": "HomeHub",
+        "store_id": "CD639"
+      },
+      "sku": "2841-EM500-D26",
+      "product": {
+        "name": "Ember Kitchen EM 500 countertop blender black EM500 standard pitcher",
+        "brand": "Ember",
+        "model": "EM500-BLK",
+        "barcode": "00850001301210",
+        "specifications": {
+          "color": "black",
+          "generation": 500,
+          "condition": "new",
+          "bundle": "standard_pitcher"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 139.55,
+          "currency": "USD"
+        },
+        "listPrice": 149.99,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T18:56:36.420130Z",
+      "product_url": "https://homehub.invalid/p/2841-EM500-D26",
+      "semantics": {
+        "identifier_scopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    },
+    {
+      "observation_id": "ra_0031",
+      "store": {
+        "display_name": "ValueMart",
+        "store_id": "44BCF"
+      },
+      "sku": "8A91-QNVX-B4F",
+      "product": {
+        "name": "Quanta NVX Pro Solid State Drive QNVX drive only 1000 GB pcie 4 nvme m2 2280 none",
+        "brand": "Quanta",
+        "model": null,
+        "barcode": null,
+        "specifications": {
+          "capacity_gb": 1000,
+          "interface": "pcie_4_nvme",
+          "form_factor": "m2_2280",
+          "heatsink": "none",
+          "condition": "new",
+          "bundle": "drive_only"
+        }
+      },
+      "offer": {
+        "price": {
+          "amount": 93.23,
+          "currency": "USD"
+        },
+        "listPrice": 93.23,
+        "availabilityCode": "in_stock",
+        "terms": {}
+      },
+      "observed_at": "2026-08-10T13:55:19.521033Z",
+      "product_url": "https://valuemart.invalid/p/8A91-QNVX-B4F",
+      "semantics": {
+        "identifier_scopes": {},
+        "product_type": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "content_origin": null,
+        "price_kind": "total_purchase_price",
+        "comparability_hint": "COMPARABLE"
+      }
+    }
+  ]
+}

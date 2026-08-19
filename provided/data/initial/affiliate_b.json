@@ -1,0 +1,1151 @@
+{
+  "feedVersion": "3.7",
+  "generatedAt": "2026-08-10T20:00:00Z",
+  "products": [
+    {
+      "eventId": "ab_0001",
+      "advertiser": {
+        "name": "BestElectro",
+        "id": "21A747"
+      },
+      "item": {
+        "title": "Auralux WH XM6 Silver Premium Headphones",
+        "merchantItemId": "6670-XM6-9E4",
+        "identifiers": {
+          "globalTradeItemNumber": "00850000100011",
+          "manufacturerCode": "AL-XM6-S"
+        },
+        "variant": {
+          "color": "silver",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "pricing": {
+        "current": 433.03,
+        "original": 449.99,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-07-31T12:03:11.537359Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/6670-XM6-9E4",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0002",
+      "advertiser": {
+        "name": "ValueMart",
+        "id": "0BF934"
+      },
+      "item": {
+        "title": "Air Book M4 13-inch Midnight 16 / 512",
+        "merchantItemId": "6A9A-AB13-M4-96B",
+        "identifiers": {
+          "globalTradeItemNumber": "00850000200124",
+          "manufacturerCode": "AB13M4-16512-MD"
+        },
+        "variant": {
+          "screen_in": 13.6,
+          "ram_gb": 16,
+          "storage_gb": 512,
+          "color": "midnight",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "pricing": {
+        "current": 1097.95,
+        "original": 1199.0,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-07T07:28:13.898543Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/6A9A-AB13-M4-96B",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0003",
+      "advertiser": {
+        "name": "BestElectro",
+        "id": "21A747"
+      },
+      "item": {
+        "title": "NP5 Slim Digital Edition 1 TB no optical drive",
+        "merchantItemId": "7E0F-NP5-SLIM-D-FEC",
+        "identifiers": {
+          "globalTradeItemNumber": "00850000400326",
+          "manufacturerCode": "NP5S-DIG"
+        },
+        "variant": {
+          "edition": "digital",
+          "storage_gb": 1000,
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "pricing": {
+        "current": 436.82,
+        "original": 449.99,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-03T08:02:45.056018Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/7E0F-NP5-SLIM-D-FEC",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0004",
+      "advertiser": {
+        "name": "ValueMart",
+        "id": "0BF934"
+      },
+      "item": {
+        "title": "NovaPlay 5 Slim Disc + second controller ValueMart bundle",
+        "merchantItemId": "FE8E-NP5-SLIM-2FF",
+        "identifiers": {
+          "globalTradeItemNumber": "00850000400319",
+          "manufacturerCode": "NP5S-DISC"
+        },
+        "variant": {
+          "edition": "disc",
+          "storage_gb": 1000,
+          "condition": "new",
+          "bundle": "retailer_extra_controller"
+        }
+      },
+      "pricing": {
+        "current": 587.21,
+        "original": 587.21,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-06T23:00:21.264418Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/FE8E-NP5-SLIM-2FF",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0005",
+      "advertiser": {
+        "name": "Stride House",
+        "id": "03C2AD"
+      },
+      "item": {
+        "title": "Peg 41 Women's Road Shoe Black White Size 10 AR41W-BW",
+        "merchantItemId": "BA10-PEG41-B12",
+        "identifiers": {
+          "globalTradeItemNumber": "00850000700648",
+          "manufacturerCode": "AR41W-BW-10"
+        },
+        "variant": {
+          "department": "womens",
+          "size_us": "10",
+          "color": "black/white",
+          "style_code": "AR41W-BW",
+          "condition": "new",
+          "bundle": "single_pair"
+        }
+      },
+      "pricing": {
+        "current": 134.96,
+        "original": 139.99,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "out_of_stock",
+        "capturedAt": "2026-08-07T00:35:25.971295Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/BA10-PEG41-B12",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0006",
+      "advertiser": {
+        "name": "Glow Market",
+        "id": "BD32CB"
+      },
+      "item": {
+        "title": "Bright C 15 percent Vitamin Serum 1.7 fl oz",
+        "merchantItemId": "7FAA-LLBC15-7CB",
+        "identifiers": {
+          "globalTradeItemNumber": "00850001000921",
+          "manufacturerCode": "LL-BC15-50"
+        },
+        "variant": {
+          "volume_ml": 50,
+          "formulation": "standard",
+          "condition": "new",
+          "bundle": "single"
+        }
+      },
+      "pricing": {
+        "current": 52.85,
+        "original": 59.0,
+        "currencyCode": "USD",
+        "promotion": {
+          "membership_required": "Plus Club"
+        }
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-09T16:39:27.874133Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/7FAA-LLBC15-7CB",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "CONDITIONAL"
+      }
+    },
+    {
+      "eventId": "ab_0007",
+      "advertiser": {
+        "name": "HomeHub",
+        "id": "666510"
+      },
+      "item": {
+        "title": "Cyclone V12 Manufacturer Certified Renewed Vacuum",
+        "merchantItemId": "C0C3-CV12-36B",
+        "identifiers": {
+          "globalTradeItemNumber": "00850001201121",
+          "manufacturerCode": "CV12-STD-R"
+        },
+        "variant": {
+          "generation": 12,
+          "condition": "certified_refurbished",
+          "bundle": "standard_tools"
+        }
+      },
+      "pricing": {
+        "current": 384.36,
+        "original": 384.36,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-07T23:07:15.667915Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/C0C3-CV12-36B",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "NOT_COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0008",
+      "advertiser": {
+        "name": "BestElectro",
+        "id": "21A747"
+      },
+      "item": {
+        "title": "Auralux WH1000 XM6 Blk headphones",
+        "merchantItemId": "C7BF-XM6-5E8",
+        "identifiers": {
+          "globalTradeItemNumber": null,
+          "manufacturerCode": "ALXM6B"
+        },
+        "variant": {
+          "color": "BLACK",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "pricing": {
+        "current": 372.17,
+        "original": 449.99,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "out_of_stock",
+        "capturedAt": "2026-08-07T06:33:25.971556Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/C7BF-XM6-5E8",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0009",
+      "advertiser": {
+        "name": "Glow Market",
+        "id": "BD32CB"
+      },
+      "item": {
+        "title": "Lumina Bright-C single bottle 50 mL",
+        "merchantItemId": "7FAA-LLBC15-7CB",
+        "identifiers": {
+          "globalTradeItemNumber": null,
+          "manufacturerCode": null
+        },
+        "variant": {
+          "volume_ml": 50,
+          "formulation": "standard",
+          "condition": "new",
+          "bundle": "single"
+        }
+      },
+      "pricing": {
+        "current": 56.34,
+        "original": 59.0,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-07T09:47:32.814044Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/7FAA-LLBC15-7CB",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {},
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0010",
+      "advertiser": {
+        "name": "ValueMart",
+        "id": "0BF934"
+      },
+      "item": {
+        "title": "Pine PinePhone 16 256GB Black",
+        "merchantItemId": "EAFB-P16-46E",
+        "identifiers": {
+          "globalTradeItemNumber": "00850000300244",
+          "manufacturerCode": "P16-256-BLK"
+        },
+        "variant": {
+          "storage_gb": 256,
+          "color": "black",
+          "carrier": "unlocked",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "pricing": {
+        "current": 790.99,
+        "original": 899.0,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-08T23:40:56.035256Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/EAFB-P16-46E",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0011",
+      "advertiser": {
+        "name": "ValueMart",
+        "id": "0BF934"
+      },
+      "item": {
+        "title": "PinePhone 16",
+        "merchantItemId": "P16-CONFIGURABLE",
+        "identifiers": {
+          "globalTradeItemNumber": null,
+          "manufacturerCode": null
+        },
+        "variant": {
+          "storage_gb": 128,
+          "color": "black",
+          "carrier": "unlocked",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "pricing": {
+        "current": 799.0,
+        "original": 799.0,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-09T10:19:52.829806Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/P16-CONFIGURABLE",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "merchant_sku": "configurable_offer"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0012",
+      "advertiser": {
+        "name": "BestElectro",
+        "id": "21A747"
+      },
+      "item": {
+        "title": "Horizon Arc 2 Smartwatch",
+        "merchantItemId": "2D6E-HARC2-A69",
+        "identifiers": {
+          "globalTradeItemNumber": null,
+          "manufacturerCode": null
+        },
+        "variant": {
+          "case_size_mm": 41,
+          "connectivity": "gps",
+          "case_material": "aluminum",
+          "color": "midnight",
+          "band_configuration": "sport_band",
+          "condition": "new",
+          "bundle": "watch_only"
+        }
+      },
+      "pricing": {
+        "current": 350.33,
+        "original": 399.0,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-07T16:08:17.047950Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/2D6E-HARC2-A69",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {},
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0013",
+      "advertiser": {
+        "name": "BestElectro",
+        "id": "21A747"
+      },
+      "item": {
+        "title": "Quanta NVX\u2011Pro Solid State Drive",
+        "merchantItemId": "E4E7-QNVX-F3C",
+        "identifiers": {
+          "globalTradeItemNumber": null,
+          "manufacturerCode": null
+        },
+        "variant": {
+          "capacity_gb": 1000,
+          "interface": "pcie_4_nvme",
+          "form_factor": "m2_2280",
+          "heatsink": "none",
+          "condition": "new",
+          "bundle": "drive_only"
+        }
+      },
+      "pricing": {
+        "current": 77.34,
+        "original": 89.99,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-07T02:54:11.642960Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/E4E7-QNVX-F3C",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {},
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0014",
+      "advertiser": {
+        "name": "BestElectro",
+        "id": "21A747"
+      },
+      "item": {
+        "title": "VistaView Q55 2025 television",
+        "merchantItemId": "9E65-VVQ55-25-281",
+        "identifiers": {
+          "globalTradeItemNumber": null,
+          "manufacturerCode": "VVQ-2025-FAMILY"
+        },
+        "variant": {
+          "screen_in": 55,
+          "panel": "qled",
+          "generation": 2025,
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "pricing": {
+        "current": 676.96,
+        "original": 699.99,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-08T09:59:38.301016Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/9E65-VVQ55-25-281",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "mpn": "universal_product_family"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0015",
+      "advertiser": {
+        "name": "Stride House",
+        "id": "03C2AD"
+      },
+      "item": {
+        "title": "AeroRun Pegasus 41 men's black US 10",
+        "merchantItemId": "90A5-PEG41-6C5",
+        "identifiers": {
+          "globalTradeItemNumber": null,
+          "manufacturerCode": "AR41M-BW"
+        },
+        "variant": {
+          "department": "mens",
+          "size_us": "10",
+          "color": "black/white",
+          "style_code": "AR41M-BW",
+          "condition": "new",
+          "bundle": "single_pair"
+        }
+      },
+      "pricing": {
+        "current": 138.45,
+        "original": 139.99,
+        "currencyCode": "USD",
+        "promotion": {
+          "membership_required": "Plus Club"
+        }
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-09T15:58:59.462794Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/90A5-PEG41-6C5",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "mpn": "style_colorway"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "CONDITIONAL"
+      }
+    },
+    {
+      "eventId": "ab_0016",
+      "advertiser": {
+        "name": "Glow Market",
+        "id": "BD32CB"
+      },
+      "item": {
+        "title": "Lumina Bright-C 30 mL subscription or coupon",
+        "merchantItemId": "7C98-LLBC15-D36",
+        "identifiers": {
+          "globalTradeItemNumber": "00850001000914",
+          "manufacturerCode": "LL-BC15-30"
+        },
+        "variant": {
+          "volume_ml": 30,
+          "formulation": "standard",
+          "condition": "new",
+          "bundle": "single"
+        }
+      },
+      "pricing": {
+        "current": 42.0,
+        "original": 42.0,
+        "currencyCode": "USD",
+        "promotion": {
+          "offers": [
+            {
+              "type": "subscribe_and_save",
+              "discount_percent": 10
+            },
+            {
+              "type": "coupon",
+              "amount_off": 5.0
+            }
+          ],
+          "stacking": "mutually_exclusive"
+        }
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-09T14:27:12.525266Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/7C98-LLBC15-D36",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "CONDITIONAL"
+      }
+    },
+    {
+      "eventId": "ab_0017",
+      "advertiser": {
+        "name": "Glow Market",
+        "id": "BD32CB"
+      },
+      "item": {
+        "title": "Auralux XM6 premium noise canceling headphones silver XM6",
+        "merchantItemId": "C210-XM6-A5F",
+        "identifiers": {
+          "globalTradeItemNumber": "00850000100011",
+          "manufacturerCode": "AL-XM6-S"
+        },
+        "variant": {
+          "color": "silver",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "pricing": {
+        "current": 428.8,
+        "original": 449.99,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-09T04:04:44.429480Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/C210-XM6-A5F",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0018",
+      "advertiser": {
+        "name": "BestElectro",
+        "id": "21A747"
+      },
+      "item": {
+        "title": "Pine P16 unlocked phone 128 P16 128GB black",
+        "merchantItemId": "6441-P16-392",
+        "identifiers": {
+          "globalTradeItemNumber": "00850000300213",
+          "manufacturerCode": "P16-128-BLK"
+        },
+        "variant": {
+          "storage_gb": 128,
+          "color": "black",
+          "carrier": "unlocked",
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "pricing": {
+        "current": 817.74,
+        "original": 817.74,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "out_of_stock",
+        "capturedAt": "2026-08-10T06:05:54.482495Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/6441-P16-392",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0019",
+      "advertiser": {
+        "name": "BestElectro",
+        "id": "21A747"
+      },
+      "item": {
+        "title": "NovaPlay 5 Slim Digital Console NP5-SLIM-D 1000GB",
+        "merchantItemId": "7E0F-NP5-SLIM-D-FEC",
+        "identifiers": {
+          "globalTradeItemNumber": "00850000400326",
+          "manufacturerCode": "NP5S-DIG"
+        },
+        "variant": {
+          "edition": "digital",
+          "storage_gb": 1000,
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "pricing": {
+        "current": 408.26,
+        "original": 449.99,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-07T06:50:36.964310Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/7E0F-NP5-SLIM-D-FEC",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0020",
+      "advertiser": {
+        "name": "Glow Market",
+        "id": "BD32CB"
+      },
+      "item": {
+        "title": "Q65 Quantum TV 2025 VVQ65 25 65 inch",
+        "merchantItemId": "18D8-VVQ65-25-651",
+        "identifiers": {
+          "globalTradeItemNumber": "0085000050043?",
+          "manufacturerCode": "VVQ65-25"
+        },
+        "variant": {
+          "screen_in": 65,
+          "panel": "qled",
+          "generation": 2025,
+          "condition": "new",
+          "bundle": "standalone"
+        }
+      },
+      "pricing": {
+        "current": 803.27,
+        "original": 899.99,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-07T15:18:49.081431Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/18D8-VVQ65-25-651",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0021",
+      "advertiser": {
+        "name": "Stride House",
+        "id": "03C2AD"
+      },
+      "item": {
+        "title": "AeroRun Pegasus 41 Road Running Shoes PEG41 ocean blue mens US 10",
+        "merchantItemId": "3AB8-PEG41-06A",
+        "identifiers": {
+          "globalTradeItemNumber": null,
+          "manufacturerCode": null
+        },
+        "variant": {
+          "department": "mens",
+          "size_us": "10",
+          "color": "ocean blue",
+          "style_code": "AR41M-OB",
+          "condition": "new",
+          "bundle": "single_pair"
+        }
+      },
+      "pricing": {
+        "current": 125.59,
+        "original": 139.99,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-07T17:25:24.333097Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/3AB8-PEG41-06A",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {},
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0022",
+      "advertiser": {
+        "name": "Stride House",
+        "id": "03C2AD"
+      },
+      "item": {
+        "title": "CoreCotton Everyday Crew Tee CCT100 black mens",
+        "merchantItemId": "65A4-CCT100-78C",
+        "identifiers": {
+          "globalTradeItemNumber": "00850000900819",
+          "manufacturerCode": "CCT100-M-BLK-1"
+        },
+        "variant": {
+          "department": "mens",
+          "size": "M",
+          "color": "black",
+          "condition": "new",
+          "bundle": "single"
+        }
+      },
+      "pricing": {
+        "current": 15.6,
+        "original": 18.0,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-07-31T17:52:46.591189Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/65A4-CCT100-78C",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0023",
+      "advertiser": {
+        "name": "Stride House",
+        "id": "03C2AD"
+      },
+      "item": {
+        "title": "Maison Vale No. 7 Eau de Parfum MVN7 50 mL",
+        "merchantItemId": "7807-MVN7-BA2",
+        "identifiers": {
+          "globalTradeItemNumber": "00850001101018",
+          "manufacturerCode": "MV-N7-EDP50"
+        },
+        "variant": {
+          "volume_ml": 50,
+          "formulation": "eau_de_parfum",
+          "condition": "new",
+          "bundle": "single"
+        }
+      },
+      "pricing": {
+        "current": 90.59,
+        "original": 90.59,
+        "currencyCode": "USD",
+        "promotion": {
+          "local_only": true,
+          "location": "select stores"
+        }
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-04T04:07:07.202245Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/7807-MVN7-BA2",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "CONDITIONAL"
+      }
+    },
+    {
+      "eventId": "ab_0024",
+      "advertiser": {
+        "name": "BestElectro",
+        "id": "21A747"
+      },
+      "item": {
+        "title": "V12 Cordless Vacuum Pet Bundle CV12 pet tool plus battery",
+        "merchantItemId": "EA14-CV12-290",
+        "identifiers": {
+          "globalTradeItemNumber": "00850001201145",
+          "manufacturerCode": "CV12-PET-BDL"
+        },
+        "variant": {
+          "generation": 12,
+          "condition": "new",
+          "bundle": "pet_tool_plus_battery"
+        }
+      },
+      "pricing": {
+        "current": 586.06,
+        "original": 649.99,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-07-30T10:21:09.351682Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/EA14-CV12-290",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    },
+    {
+      "eventId": "ab_0025",
+      "advertiser": {
+        "name": "Stride House",
+        "id": "03C2AD"
+      },
+      "item": {
+        "title": "Horizon Arc 2 Smartwatch HARC2 midnight sport band",
+        "merchantItemId": "D523-HARC2-0F0",
+        "identifiers": {
+          "globalTradeItemNumber": "00850001401323",
+          "manufacturerCode": "HARC2-41-LTE-AL-MD"
+        },
+        "variant": {
+          "case_size_mm": 41,
+          "connectivity": "gps_cellular",
+          "case_material": "aluminum",
+          "color": "midnight",
+          "band_configuration": "sport_band",
+          "condition": "new",
+          "bundle": "watch_only"
+        }
+      },
+      "pricing": {
+        "current": 504.88,
+        "original": 504.88,
+        "currencyCode": "USD",
+        "promotion": {}
+      },
+      "stock": {
+        "status": "in_stock",
+        "capturedAt": "2026-08-07T07:44:02.066727Z"
+      },
+      "trackingUrl": "https://affiliate-b.invalid/t/D523-HARC2-0F0",
+      "contentLineage": null,
+      "semantics": {
+        "identifierScopes": {
+          "gtin": "exact_variant",
+          "mpn": "exact_variant"
+        },
+        "productType": "primary_product",
+        "relationships": {},
+        "excludes": [],
+        "contentOrigin": null,
+        "priceKind": "total_purchase_price",
+        "comparabilityHint": "COMPARABLE"
+      }
+    }
+  ]
+}

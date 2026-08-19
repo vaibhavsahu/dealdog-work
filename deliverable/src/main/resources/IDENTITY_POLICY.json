@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Candidate-visible identity semantics. The examples are authoritative for this trial but do not prescribe an implementation.",
+  "global_rules": [
+    "A universal product is a marketed model or generation shared across sellers.",
+    "A variant is the exact configuration on which price comparison is safe.",
+    "Seller, condition, price, availability, and temporary promotions are offer or observation evidence, not product identity.",
+    "Price level, discount size, and which configuration is cheaper are never identity evidence.",
+    "A total purchase price, monthly installment, trade-in net amount, subscription price, and coupon-conditional amount are different monetary semantics and must not be ranked as if they were interchangeable.",
+    "Agreement from records with the same content or syndication origin is correlated evidence, not independent confirmation.",
+    "A source may evolve between compatible schema versions; preserve version provenance and quarantine only the record that cannot be safely interpreted.",
+    "Identifier equality is evidence at the identifier's semantic scope; a family/style/configurable-offer identifier does not prove exact-variant equality.",
+    "Variant-significant dimensions can depend on a product family as well as its broad category.",
+    "Unknown structured attributes and explicit exclusions should survive normalization with provenance; a token mentioned as compatible or not included is not positive contents evidence.",
+    "Additional hierarchy levels are allowed; evaluation focuses on safe semantic relationships rather than required entity names.",
+    "Missing material evidence does not prove equality. Conflicting material evidence normally requires REVIEW.",
+    "A manufacturer bundle, retailer-added bundle, multipack, and temporary entitlement can have different identity consequences and must retain provenance."
+  ],
+  "categories": {
+    "phones": {
+      "product_dimensions": ["brand", "model", "generation"],
+      "variant_dimensions": ["storage_gb", "color", "carrier"],
+      "price_critical_dimensions": ["storage_gb", "carrier"]
+    },
+    "laptops": {
+      "product_dimensions": ["brand", "model", "processor_generation"],
+      "variant_dimensions": ["screen_in", "ram_gb", "storage_gb", "color", "gpu"],
+      "price_critical_dimensions": ["processor_generation", "ram_gb", "storage_gb", "gpu", "screen_in"]
+    },
+    "smartwatches": {
+      "product_dimensions": ["brand", "model", "generation"],
+      "variant_dimensions": ["case_size_mm", "connectivity", "case_material", "color", "bundle"],
+      "price_critical_dimensions": ["case_size_mm", "connectivity", "case_material"]
+    },
+    "storage_devices": {
+      "product_dimensions": ["brand", "model", "generation"],
+      "variant_dimensions": ["capacity_gb", "interface", "form_factor", "heatsink", "bundle"],
+      "price_critical_dimensions": ["capacity_gb", "interface", "heatsink"]
+    },
+    "cameras": {
+      "product_dimensions": ["brand", "model", "generation"],
+      "variant_dimensions": ["sensor_format", "included_lens", "warranty_region", "bundle"],
+      "price_critical_dimensions": ["included_lens", "warranty_region", "bundle"]
+    },
+    "game_consoles": {
+      "product_dimensions": ["brand", "model", "generation"],
+      "variant_dimensions": ["edition", "storage_gb", "bundle"],
+      "price_critical_dimensions": ["edition", "storage_gb", "bundle"]
+    },
+    "footwear": {
+      "product_dimensions": ["brand", "style_code", "generation"],
+      "variant_dimensions": ["department", "size_us", "width", "color", "bundle"],
+      "price_critical_dimensions": ["size_us", "width", "bundle"]
+    },
+    "beauty_and_fragrance": {
+      "product_dimensions": ["brand", "line", "formulation_family"],
+      "variant_dimensions": ["volume_ml", "formulation", "strength_pct", "bundle"],
+      "price_critical_dimensions": ["volume_ml", "formulation", "strength_pct", "bundle"]
+    },
+    "tires": {
+      "product_dimensions": ["brand", "model", "season"],
+      "variant_dimensions": ["width_mm", "aspect_ratio", "rim_in", "load_index", "speed_rating", "extra_load", "run_flat", "quantity"],
+      "price_critical_dimensions": ["width_mm", "aspect_ratio", "rim_in", "load_index", "speed_rating", "run_flat", "quantity"]
+    },
+    "power_tools": {
+      "product_dimensions": ["brand", "model", "voltage_platform", "tool_type"],
+      "variant_dimensions": ["voltage_v", "battery_count", "battery_capacity_ah", "charger_included", "bundle"],
+      "price_critical_dimensions": ["voltage_v", "battery_count", "battery_capacity_ah", "charger_included", "bundle"]
+    },
+    "printer_supplies": {
+      "product_dimensions": ["brand", "model", "compatible_printer_family"],
+      "variant_dimensions": ["color", "yield_pages", "yield_class", "oem_status", "cartridge_count", "bundle"],
+      "price_critical_dimensions": ["color", "yield_pages", "oem_status", "cartridge_count"]
+    },
+    "books_media": {
+      "product_dimensions": ["work", "edition", "language"],
+      "variant_dimensions": ["format", "edition", "language", "region", "disc_count", "license", "bundle"],
+      "price_critical_dimensions": ["format", "edition", "language", "region", "license"]
+    },
+    "networking": {
+      "product_dimensions": ["brand", "model", "wifi_generation"],
+      "variant_dimensions": ["band_count", "max_speed_mbps", "ethernet_ports", "poe", "node_count", "region", "bundle"],
+      "price_critical_dimensions": ["max_speed_mbps", "ethernet_ports", "poe", "node_count", "region"]
+    }
+  }
+}
